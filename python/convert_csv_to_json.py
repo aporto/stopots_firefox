@@ -36,13 +36,15 @@ with open('dictionary.csv') as csv_file:
                 if len(uvalues) == 0:
                     uvalues = uvalue.split("\\")
                 if len(uvalues) == 0:
+                    uvalues = uvalue.split(",")
+                if len(uvalues) == 0:
                     uvalues = [uvalue]
 
                 for item in uvalues:
                     try:
-                        dic[uname.upper()][letter].append(item)
+                        dic[uname.upper()][letter].append(item.strip())
                     except:
-                        dic[uname.upper()][letter] = [item]
+                        dic[uname.upper()][letter] = [item.strip()]
 
 with open(r'../plugin/list_of_words.js', 'w') as f:
     f.write("var stopCheats = ")

@@ -1,4 +1,122 @@
 var stopCheats = {
+    "ADJETIVO": {
+        "A": [
+            "Agrad\u00e1vel", 
+            "Alegre", 
+            "Anta"
+        ], 
+        "B": [
+            "Babaca", 
+            "Bonita", 
+            "Burra"
+        ], 
+        "C": [
+            "Corajosa", 
+            "Covarde", 
+            "C\u00ednica"
+        ], 
+        "D": [
+            "Desaforada", 
+            "Desprez\u00edvel", 
+            "Divertida"
+        ], 
+        "E": [
+            "Esperta", 
+            "Estranha", 
+            "Est\u00fapida"
+        ], 
+        "F": [
+            "Falsa", 
+            "Feia", 
+            "Feliz"
+        ], 
+        "G": [
+            "Gentil", 
+            "Gorda", 
+            "Grossa"
+        ], 
+        "H": [
+            "Hip\u00f3crita", 
+            "Honesta", 
+            "Humilde"
+        ], 
+        "I": [
+            "Idiota", 
+            "Imbecil", 
+            "Inteligente"
+        ], 
+        "J": [
+            "Jegue", 
+            "Jumenta", 
+            "Justa"
+        ], 
+        "L": [
+            "Lerda", 
+            "Linda", 
+            "Louca"
+        ], 
+        "M": [
+            "Mala", 
+            "Meiga", 
+            "Metida"
+        ], 
+        "N": [
+            "Neur\u00f3tica", 
+            "Nobre", 
+            "Nojenta", 
+            "N\u00e3o existem adjetivos com a letra K.", 
+            "N\u00e3o existem adjetivos com a letra Y."
+        ], 
+        "O": [
+            "Orgulhosa", 
+            "Otimista", 
+            "Ot\u00e1ria"
+        ], 
+        "P": [
+            "Palha\u00e7a", 
+            "Porca", 
+            "Positiva"
+        ], 
+        "Q": [
+            "Querida (sugerido por Nai e daniele)"
+        ], 
+        "R": [
+            "Retardada", 
+            "Ridicula", 
+            "Risonha"
+        ], 
+        "S": [
+            "Sacana", 
+            "Safada", 
+            "Simp\u00e1tica"
+        ], 
+        "T": [
+            "Tola", 
+            "Trabalhadora", 
+            "Tra\u00edra"
+        ], 
+        "U": [
+            "Ultrapassada", 
+            "\u00danica", 
+            "\u00datil"
+        ], 
+        "V": [
+            "Vaca", 
+            "Valente", 
+            "Virtuosa"
+        ], 
+        "W": [
+            "Workaholic (sugerido por Nai, \u00e9 um termo para \u201ctrabalhador compulsivo\u201c)"
+        ], 
+        "X": [
+            "Xexelenta", 
+            "Xucra"
+        ], 
+        "Z": [
+            "Zangada", 
+            "Zelosa"
+        ]
+    }, 
     "ALIMENTO": {
         "A": [
             "Arroz"
@@ -773,67 +891,105 @@ var stopCheats = {
     "CANTOR": {
         "A": [
             "Adele", 
-            "Akon"
+            "Almir Sater", 
+            "Akon", 
+            "Amado Batista"
         ], 
         "B": [
             "Beyonc\u00e9", 
+            "Barrerito", 
+            "Bezerra da Silva", 
+            "Byafra", 
             "Bambico"
         ], 
         "C": [
             "Celine Dion", 
+            "Chico Buarque", 
             "Chris Brown"
         ], 
         "D": [
             "Demi Lovato", 
-            "Dr. Dre"
+            "Dr. Dre", 
+            "Daniel", 
+            "Di Paullo e Paulino"
         ], 
         "E": [
             "Enya", 
+            "Ed Motta", 
+            "Edson e Hudson", 
+            "Eduardo Costa", 
             "Eminem"
         ], 
         "F": [
             "Fergie", 
+            "Fagner", 
+            "Fernando e Sorocaba", 
+            "F\u00e1bio J\u00fanior", 
             "Flo Rida"
         ], 
         "G": [
             "Garth Brooks", 
-            "Gloria Estefan"
+            "Gloria Estefan", 
+            "Gilberto Gil", 
+            "Gino e Geno", 
+            "Gusttavo Lima"
         ], 
         "H": [
             "Hakim", 
+            "Henrique e Juliano", 
+            "Hugo Pena e Gabriel", 
+            "Hugo e Tiago", 
+            "Humberto e Ronaldo", 
             "Hadise"
         ], 
         "I": [
             "Ice Cube", 
+            "Israel Novaes", 
+            "Ivo Pessoa", 
             "Inna"
         ], 
         "J": [
             "Jennifer Lopez", 
-            "John Lennon"
+            "John Lennon", 
+            "Jo\u00e3o Bosco", 
+            "Jo\u00e3o Mineiro e Marciano"
         ], 
         "K": [
             "Kirka", 
+            "Kamau", 
             "Kesha"
         ], 
         "L": [
             "Lara Li", 
+            "Leonardo", 
+            "Luan Santana", 
+            "Lucas Lucco", 
             "Lucenzo"
         ], 
         "M": [
             "Madonna", 
-            "Michael Jackson"
+            "Michael Jackson", 
+            "Michel Tel\u00f3"
         ], 
         "N": [
             "Nelly Furtado", 
+            "Nando Reis", 
+            "Netinho de Paula", 
             "Nelly"
         ], 
         "O": [
             "Obie Trice", 
+            "Orlando Silva", 
+            "Oswaldo Montenegro", 
+            "Ovelha", 
             "Orianthi"
         ], 
         "P": [
             "Phil Mogg", 
-            "Pixie Lott"
+            "Pixie Lott", 
+            "Pablo", 
+            "Paulo Ricardo", 
+            "P\u00e9ricles"
         ], 
         "Q": [
             "Quina Barreiros", 
@@ -841,11 +997,109 @@ var stopCheats = {
         ], 
         "R": [
             "Rihanna", 
-            "Rod Stewart"
+            "Rod Stewart", 
+            "Roberto Carlos", 
+            "Ronnie Von"
         ], 
         "S": [
             "Shakira", 
-            "Stevie Wonder"
+            "Stevie Wonder", 
+            "S\u00e9rgio Reis"
+        ], 
+        "T": [
+            "Teodoro e Sampaio", 
+            "Thaeme e Thiago", 
+            "Toquinho"
+        ], 
+        "U": [
+            "Ualas Baptista", 
+            "Ulisses Guedes"
+        ], 
+        "V": [
+            "Victor e L\u00e9o", 
+            "Vinny"
+        ], 
+        "X": [
+            "Xanddy"
+        ], 
+        "Y": [
+            "Yudi Tamashiro"
+        ], 
+        "Z": [
+            "Zez\u00e9 Di Camargo e Luciano", 
+            "Zico e Zeca"
+        ]
+    }, 
+    "CANTORA": {
+        "A": [
+            "Alcione", 
+            "Anitta"
+        ], 
+        "B": [
+            "Bruna Karla"
+        ], 
+        "C": [
+            "Cassiane"
+        ], 
+        "D": [
+            "Daniela Mercury"
+        ], 
+        "E": [
+            "Elba Ramalho"
+        ], 
+        "G": [
+            "Gal Costa"
+        ], 
+        "I": [
+            "Ivete Sangalo"
+        ], 
+        "J": [
+            "Jamily", 
+            "Joanna"
+        ], 
+        "K": [
+            "Kelly Key"
+        ], 
+        "M": [
+            "Maria Cec\u00edlia e Rodolfo"
+        ], 
+        "N": [
+            "Negra Li"
+        ], 
+        "Q": [
+            "Queila Leite", 
+            "Quelly Silva"
+        ], 
+        "R": [
+            "Rita Lee", 
+            "Roberta Miranda"
+        ], 
+        "S": [
+            "Simony", 
+            "Sula Miranda"
+        ], 
+        "U": [
+            "Ursula Corona"
+        ], 
+        "V": [
+            "Valesca Popozuda", 
+            "Vanusa"
+        ], 
+        "W": [
+            "Wanessa Camargo"
+        ], 
+        "X": [
+            "Xuxa"
+        ], 
+        "Y": [
+            "Ylana Queiroga", 
+            "Yudi Tamashiro"
+        ], 
+        "Z": [
+            "Zez\u00e9 Di Camargo e Luciano", 
+            "Zico e Zeca", 
+            "Zizi Possi", 
+            "Z\u00e9lia Duncan"
         ]
     }, 
     "CANTORES DO BRASIL": {
@@ -1920,6 +2174,78 @@ var stopCheats = {
         ], 
         "Z": [
             "Z\u00e9 Colm\u00e9ia"
+        ]
+    }, 
+    "DOCE": {
+        "A": [
+            "Arroz-doce"
+        ], 
+        "B": [
+            "Bala", 
+            "Beiju", 
+            "Bolacha", 
+            "Bolo", 
+            "Beijinho"
+        ], 
+        "C": [
+            "Cajuzinho", 
+            "Chocolate", 
+            "Churro", 
+            "Cocada"
+        ], 
+        "D": [
+            "doce-de-leite"
+        ], 
+        "E": [
+            "Enroladinho de doce de leite"
+        ], 
+        "F": [
+            "Farofa-doce"
+        ], 
+        "G": [
+            "Gel\u00e9ia", 
+            "Goiabada"
+        ], 
+        "I": [
+            "Iogurte", 
+            "Iyokan"
+        ], 
+        "J": [
+            "Jujuba"
+        ], 
+        "L": [
+            "Leite-condensado", 
+            "Licor"
+        ], 
+        "M": [
+            "Manjar", 
+            "Ma\u00e7\u00e3 do amor", 
+            "Mousse"
+        ], 
+        "O": [
+            "ovomaltine"
+        ], 
+        "P": [
+            "Pudim"
+        ], 
+        "Q": [
+            "Queijada"
+        ], 
+        "R": [
+            "Romeu e Julieta", 
+            "Rocambole", 
+            "Rabanada", 
+            "Rapadura"
+        ], 
+        "S": [
+            "Sorvete"
+        ], 
+        "T": [
+            "Trufa", 
+            "T\u00e2mara"
+        ], 
+        "X": [
+            "Xarope de guaran\u00e1"
         ]
     }, 
     "DOENCA": {
@@ -5658,8 +5984,8 @@ var stopCheats = {
             "Phyllis Dietrichson"
         ], 
         "R": [
-            "Regan MacNeil ", 
-            " Pazuzu", 
+            "Regan MacNeil", 
+            "Pazuzu", 
             "Regina Giddens"
         ], 
         "S": [
@@ -6539,6 +6865,134 @@ var stopCheats = {
             "Zoologista", 
             "Zootecnista", 
             "Zo\u00f3logo"
+        ]
+    }, 
+    "PROGRAMA DE TV": {
+        "A": [
+            "Al\u00f4 Christina", 
+            "Amigos", 
+            "Astros"
+        ], 
+        "B": [
+            "Balan\u00e7o Geral", 
+            "Bambulu\u00e1", 
+            "Brothers"
+        ], 
+        "C": [
+            "Charme", 
+            "Chaves", 
+            "Clipmania", 
+            "Coruj\u00e3o"
+        ], 
+        "D": [
+            "Degrassi", 
+            "Descontrole", 
+            "Domingugu"
+        ], 
+        "E": [
+            "Encrenca", 
+            "Esquenta!", 
+            "Estrelas"
+        ], 
+        "F": [
+            "Fantasia", 
+            "Fant\u00e1stico", 
+            "Futurando"
+        ], 
+        "G": [
+            "Gentalha", 
+            "Globo Rural", 
+            "Gordoshop"
+        ], 
+        "H": [
+            "Hebe", 
+            "Hipertens\u00e3o", 
+            "Hora H"
+        ], 
+        "I": [
+            "Intercine", 
+            "Interligado", 
+            "\u00cddolos"
+        ], 
+        "J": [
+            "Jogo Aberto", 
+            "Jornal Hoje", 
+            "Jovens Tardes"
+        ], 
+        "K": [
+            "Karku (Kark\u00fa)"
+        ], 
+        "L": [
+            "Legend\u00e1rios", 
+            "Le\u00e3o Livre", 
+            "Login"
+        ], 
+        "M": [
+            "Megatom", 
+            "Mixtura\u00e7\u00e3o", 
+            "Muvuca"
+        ], 
+        "N": [
+            "NBlogs", 
+            "Na\u00e7\u00e3o", 
+            "Note e Anote"
+        ], 
+        "O": [
+            "Olha Voc\u00ea", 
+            "Oradukapeta", 
+            "Os Cupins"
+        ], 
+        "P": [
+            "Perfil", 
+            "Popstars", 
+            "Provoca\u00e7\u00f5es"
+        ], 
+        "Q": [
+            "Qual \u00e9 a M\u00fasica?", 
+            "Quarta Total", 
+            "Quiz MTV"
+        ], 
+        "R": [
+            "Radar", 
+            "Ressoar", 
+            "Rockgol", 
+            "Roda a Roda"
+        ], 
+        "S": [
+            "Satiricom", 
+            "Stargame", 
+            "Super Pop"
+        ], 
+        "T": [
+            "Telecurso", 
+            "Tenta\u00e7\u00e3o", 
+            "Trolal\u00e1"
+        ], 
+        "U": [
+            "Ultranot\u00edcias", 
+            "Uni Duni T\u00ea", 
+            "U\u00e1 U\u00e1"
+        ], 
+        "V": [
+            "Vestibulando", 
+            "Vitrine", 
+            "Vrum"
+        ], 
+        "W": [
+            "Wiseguy (O Homem da M\u00e1fia)"
+        ], 
+        "X": [
+            "X-Tudo", 
+            "Xaveco", 
+            "Xou da Xuxa"
+        ], 
+        "Y": [
+            "Yes, Dear (Sim, Querida)"
+        ], 
+        "Z": [
+            "Zapping", 
+            "Zip Zap", 
+            "Zuzubal\u00e2ndia"
         ]
     }, 
     "PROGRAMA DE TV (TELEVISAO)": {
@@ -8492,8 +8946,8 @@ var stopCheats = {
             "Phyllis Dietrichson"
         ], 
         "R": [
-            "Regan MacNeil ", 
-            " Pazuzu", 
+            "Regan MacNeil", 
+            "Pazuzu", 
             "Regina Giddens"
         ], 
         "S": [
