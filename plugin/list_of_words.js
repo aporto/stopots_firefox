@@ -11,9 +11,9 @@ var stopCheats = {
             "Burra"
         ], 
         "C": [
+            "C\u00ednica", 
             "Corajosa", 
-            "Covarde", 
-            "C\u00ednica"
+            "Covarde"
         ], 
         "D": [
             "Desaforada", 
@@ -63,14 +63,12 @@ var stopCheats = {
         "N": [
             "Neur\u00f3tica", 
             "Nobre", 
-            "Nojenta", 
-            "N\u00e3o existem adjetivos com a letra K.", 
-            "N\u00e3o existem adjetivos com a letra Y."
+            "Nojenta"
         ], 
         "O": [
             "Orgulhosa", 
-            "Otimista", 
-            "Ot\u00e1ria"
+            "Ot\u00e1ria", 
+            "Otimista"
         ], 
         "P": [
             "Palha\u00e7a", 
@@ -78,7 +76,7 @@ var stopCheats = {
             "Positiva"
         ], 
         "Q": [
-            "Querida (sugerido por Nai e daniele)"
+            "Querida"
         ], 
         "R": [
             "Retardada", 
@@ -106,15 +104,10 @@ var stopCheats = {
             "Virtuosa"
         ], 
         "W": [
-            "Workaholic (sugerido por Nai, \u00e9 um termo para \u201ctrabalhador compulsivo\u201c)"
+            "Workaholic"
         ], 
         "X": [
-            "Xexelenta", 
-            "Xucra"
-        ], 
-        "Z": [
-            "Zangada", 
-            "Zelosa"
+            "Xexelenta"
         ]
     }, 
     "ALIMENTO": {
@@ -362,64 +355,6 @@ var stopCheats = {
         ], 
         "O": [
             "office.com"
-        ], 
-        "P": [
-            "paypal.com", 
-            "pinterest.com", 
-            "play.google.com", 
-            "pudim.com.br"
-        ], 
-        "Q": [
-            "quizlet.com", 
-            "quora.com"
-        ], 
-        "R": [
-            "realtor.com", 
-            "reddit.com", 
-            "retailmenot.com", 
-            "rottentomatoes.com"
-        ], 
-        "S": [
-            "spotify.com", 
-            "steamcommunity.com", 
-            "steampowered.com"
-        ], 
-        "T": [
-            "target.com", 
-            "theguardian.com", 
-            "tripadvisor.com", 
-            "twitch.tv", 
-            "twitter.com"
-        ], 
-        "U": [
-            "ufl.edu", 
-            "urbandictionary.com", 
-            "usatoday.com", 
-            "usnews.com", 
-            "usps.com"
-        ], 
-        "W": [
-            "walmart.com", 
-            "washingtonpost.com", 
-            "wayfair.com", 
-            "weather.com", 
-            "webmd.com", 
-            "wellsfargo.com", 
-            "wikihow.com", 
-            "wikipedia.org", 
-            "wiktionary.org", 
-            "wowhead.com"
-        ], 
-        "X": [
-            "xfinity.com"
-        ], 
-        "Y": [
-            "yahoo.com", 
-            "yellowpages.com", 
-            "youtube.com"
-        ], 
-        "Z": [
-            "zillow.com"
         ]
     }, 
     "ARTISTA": {
@@ -888,123 +823,189 @@ var stopCheats = {
             "Whisky"
         ]
     }, 
-    "CANTOR": {
+    "BRINQUEDO": {
         "A": [
-            "Adele", 
-            "Almir Sater", 
-            "Akon", 
-            "Amado Batista"
+            "Aquaplay"
         ], 
         "B": [
-            "Beyonc\u00e9", 
+            "Boneca", 
+            "Bambol\u00ea", 
+            "Bilboqu\u00ea", 
+            "Bola", 
+            "Bicicleta"
+        ], 
+        "C": [
+            "Casinha de boneca", 
+            "Carrinho"
+        ], 
+        "D": [
+            "Domin\u00f3"
+        ], 
+        "E": [
+            "Escorregador"
+        ], 
+        "F": [
+            "Fidget spinner", 
+            "Forte apache", 
+            "Futebol de bot\u00e3o", 
+            "Freesbe"
+        ], 
+        "G": [
+            "Geleca"
+        ], 
+        "I": [
+            "Ioio"
+        ], 
+        "L": [
+            "Lego"
+        ], 
+        "M": [
+            "Melocoton"
+        ], 
+        "N": [
+            "NeoGeo"
+        ], 
+        "P": [
+            "Patinete", 
+            "Pi\u00e3o", 
+            "Peteca", 
+            "Pogobol", 
+            "Pipa", 
+            "Playmobil", 
+            "Pense Bem"
+        ], 
+        "Q": [
+            "Quebra-cabe\u00e7as"
+        ], 
+        "S": [
+            "Soldadinho de pl\u00e1stico"
+        ], 
+        "T": [
+            "Tamagotchi", 
+            "Telefone de lata", 
+            "Trenzinho"
+        ], 
+        "Z": [
+            "Zootropo"
+        ]
+    }, 
+    "CANTOR": {
+        "A": [
+            "Almir Sater", 
+            "Amado Batista", 
+            "Adele", 
+            "Akon"
+        ], 
+        "B": [
             "Barrerito", 
             "Bezerra da Silva", 
             "Byafra", 
+            "Beyonc\u00e9", 
             "Bambico"
         ], 
         "C": [
-            "Celine Dion", 
             "Chico Buarque", 
+            "Celine Dion", 
             "Chris Brown"
         ], 
         "D": [
-            "Demi Lovato", 
-            "Dr. Dre", 
             "Daniel", 
-            "Di Paullo e Paulino"
+            "Di Paullo e Paulino", 
+            "Demi Lovato", 
+            "Dr. Dre"
         ], 
         "E": [
-            "Enya", 
             "Ed Motta", 
             "Edson e Hudson", 
             "Eduardo Costa", 
+            "Enya", 
             "Eminem"
         ], 
         "F": [
-            "Fergie", 
             "Fagner", 
             "Fernando e Sorocaba", 
             "F\u00e1bio J\u00fanior", 
+            "Fergie", 
             "Flo Rida"
         ], 
         "G": [
-            "Garth Brooks", 
-            "Gloria Estefan", 
             "Gilberto Gil", 
             "Gino e Geno", 
-            "Gusttavo Lima"
+            "Gusttavo Lima", 
+            "Garth Brooks", 
+            "Gloria Estefan"
         ], 
         "H": [
-            "Hakim", 
             "Henrique e Juliano", 
             "Hugo Pena e Gabriel", 
             "Hugo e Tiago", 
             "Humberto e Ronaldo", 
+            "Hakim", 
             "Hadise"
         ], 
         "I": [
-            "Ice Cube", 
             "Israel Novaes", 
             "Ivo Pessoa", 
+            "Ice Cube", 
             "Inna"
         ], 
         "J": [
-            "Jennifer Lopez", 
-            "John Lennon", 
             "Jo\u00e3o Bosco", 
-            "Jo\u00e3o Mineiro e Marciano"
+            "Jo\u00e3o Mineiro e Marciano", 
+            "Jennifer Lopez", 
+            "John Lennon"
         ], 
         "K": [
-            "Kirka", 
             "Kamau", 
+            "Kirka", 
             "Kesha"
         ], 
         "L": [
-            "Lara Li", 
             "Leonardo", 
             "Luan Santana", 
             "Lucas Lucco", 
+            "Lara Li", 
             "Lucenzo"
         ], 
         "M": [
+            "Michel Tel\u00f3", 
             "Madonna", 
-            "Michael Jackson", 
-            "Michel Tel\u00f3"
+            "Michael Jackson"
         ], 
         "N": [
-            "Nelly Furtado", 
             "Nando Reis", 
             "Netinho de Paula", 
+            "Nelly Furtado", 
             "Nelly"
         ], 
         "O": [
-            "Obie Trice", 
             "Orlando Silva", 
             "Oswaldo Montenegro", 
             "Ovelha", 
+            "Obie Trice", 
             "Orianthi"
         ], 
         "P": [
-            "Phil Mogg", 
-            "Pixie Lott", 
             "Pablo", 
             "Paulo Ricardo", 
-            "P\u00e9ricles"
+            "P\u00e9ricles", 
+            "Phil Mogg", 
+            "Pixie Lott"
         ], 
         "Q": [
             "Quina Barreiros", 
             "Quim Barreiros"
         ], 
         "R": [
-            "Rihanna", 
-            "Rod Stewart", 
             "Roberto Carlos", 
-            "Ronnie Von"
+            "Ronnie Von", 
+            "Rihanna", 
+            "Rod Stewart"
         ], 
         "S": [
+            "S\u00e9rgio Reis", 
             "Shakira", 
-            "Stevie Wonder", 
-            "S\u00e9rgio Reis"
+            "Stevie Wonder"
         ], 
         "T": [
             "Teodoro e Sampaio", 
@@ -1030,79 +1031,7 @@ var stopCheats = {
             "Zico e Zeca"
         ]
     }, 
-    "CANTORA": {
-        "A": [
-            "Alcione", 
-            "Anitta"
-        ], 
-        "B": [
-            "Bruna Karla"
-        ], 
-        "C": [
-            "Cassiane"
-        ], 
-        "D": [
-            "Daniela Mercury"
-        ], 
-        "E": [
-            "Elba Ramalho"
-        ], 
-        "G": [
-            "Gal Costa"
-        ], 
-        "I": [
-            "Ivete Sangalo"
-        ], 
-        "J": [
-            "Jamily", 
-            "Joanna"
-        ], 
-        "K": [
-            "Kelly Key"
-        ], 
-        "M": [
-            "Maria Cec\u00edlia e Rodolfo"
-        ], 
-        "N": [
-            "Negra Li"
-        ], 
-        "Q": [
-            "Queila Leite", 
-            "Quelly Silva"
-        ], 
-        "R": [
-            "Rita Lee", 
-            "Roberta Miranda"
-        ], 
-        "S": [
-            "Simony", 
-            "Sula Miranda"
-        ], 
-        "U": [
-            "Ursula Corona"
-        ], 
-        "V": [
-            "Valesca Popozuda", 
-            "Vanusa"
-        ], 
-        "W": [
-            "Wanessa Camargo"
-        ], 
-        "X": [
-            "Xuxa"
-        ], 
-        "Y": [
-            "Ylana Queiroga", 
-            "Yudi Tamashiro"
-        ], 
-        "Z": [
-            "Zez\u00e9 Di Camargo e Luciano", 
-            "Zico e Zeca", 
-            "Zizi Possi", 
-            "Z\u00e9lia Duncan"
-        ]
-    }, 
-    "CANTORES DO BRASIL": {
+    "CANTOR BRASILEIRO": {
         "A": [
             "Anitta", 
             "Armandinho"
@@ -1180,6 +1109,78 @@ var stopCheats = {
         ], 
         "T": [
             "T\u00e2nia Mara"
+        ]
+    }, 
+    "CANTORA": {
+        "A": [
+            "Alcione", 
+            "Anitta"
+        ], 
+        "B": [
+            "Bruna Karla"
+        ], 
+        "C": [
+            "Cassiane"
+        ], 
+        "D": [
+            "Daniela Mercury"
+        ], 
+        "E": [
+            "Elba Ramalho"
+        ], 
+        "G": [
+            "Gal Costa"
+        ], 
+        "I": [
+            "Ivete Sangalo"
+        ], 
+        "J": [
+            "Jamily", 
+            "Joanna"
+        ], 
+        "K": [
+            "Kelly Key"
+        ], 
+        "M": [
+            "Maria Cec\u00edlia e Rodolfo"
+        ], 
+        "N": [
+            "Negra Li"
+        ], 
+        "Q": [
+            "Queila Leite", 
+            "Quelly Silva"
+        ], 
+        "R": [
+            "Rita Lee", 
+            "Roberta Miranda"
+        ], 
+        "S": [
+            "Simony", 
+            "Sula Miranda"
+        ], 
+        "U": [
+            "Ursula Corona"
+        ], 
+        "V": [
+            "Valesca Popozuda", 
+            "Vanusa"
+        ], 
+        "W": [
+            "Wanessa Camargo"
+        ], 
+        "X": [
+            "Xuxa"
+        ], 
+        "Y": [
+            "Ylana Queiroga", 
+            "Yudi Tamashiro"
+        ], 
+        "Z": [
+            "Zez\u00e9 Di Camargo e Luciano", 
+            "Zico e Zeca", 
+            "Zizi Possi", 
+            "Z\u00e9lia Duncan"
         ]
     }, 
     "CAPITAL": {
@@ -1345,8 +1346,7 @@ var stopCheats = {
     "CELEBRIDADE": {
         "A": [
             "Andr\u00e9 Marques", 
-            "Ang\u00e9lica", 
-            "Adriana Varej\u00e3o"
+            "Ang\u00e9lica"
         ], 
         "B": [
             "Belmonte", 
@@ -1367,8 +1367,7 @@ var stopCheats = {
         "E": [
             "Eli Heil", 
             "Eliana", 
-            "Eric Gill", 
-            "\u00c9rico Ver\u00edssimo"
+            "Eric Gill"
         ], 
         "F": [
             "Fausto Silva", 
@@ -1449,28 +1448,6 @@ var stopCheats = {
             "Ugo Foscolo", 
             "Ulrich Leman", 
             "Umberto Boccioni"
-        ], 
-        "V": [
-            "Vecchietta", 
-            "Vera Amaral", 
-            "Voltaire"
-        ], 
-        "W": [
-            "William Kentridge"
-        ], 
-        "X": [
-            "Xie Zhiliu", 
-            "Xu Wei", 
-            "Xuxa Meneghel"
-        ], 
-        "Y": [
-            "Yves Klein"
-        ], 
-        "Z": [
-            "Zina Aita", 
-            "Ziraldo", 
-            "Zor\u00e1via Bettiol", 
-            "Z\u00e9lia Gattai"
         ]
     }, 
     "CEP": {
@@ -1860,6 +1837,86 @@ var stopCheats = {
         ], 
         "Z": [
             "Zitrone."
+        ]
+    }, 
+    "COMIDA SAUDAVEL": {
+        "A": [
+            "Abacaxi"
+        ], 
+        "B": [
+            "Banana"
+        ], 
+        "C": [
+            "Caju"
+        ], 
+        "D": [
+            "Damasco"
+        ], 
+        "E": [
+            "Espinafre"
+        ], 
+        "F": [
+            "Feij\u00e3o"
+        ], 
+        "G": [
+            "Gravat\u00e1"
+        ], 
+        "H": [
+            "Hobza"
+        ], 
+        "I": [
+            "Ing\u00e1", 
+            "Iogurte"
+        ], 
+        "J": [
+            "J\u00edcama"
+        ], 
+        "K": [
+            "Kabosu"
+        ], 
+        "L": [
+            "Leite de amendoas", 
+            "Lim\u00e3o"
+        ], 
+        "M": [
+            "Mandioca", 
+            "Ma\u00e7\u00e3"
+        ], 
+        "N": [
+            "N\u00easpera"
+        ], 
+        "O": [
+            "Oxicoco"
+        ], 
+        "P": [
+            "Pera"
+        ], 
+        "Q": [
+            "Quiabo"
+        ], 
+        "R": [
+            "Rom\u00e3", 
+            "R\u00facula"
+        ], 
+        "S": [
+            "Sapoti", 
+            "Soja"
+        ], 
+        "T": [
+            "Tamarindo"
+        ], 
+        "U": [
+            "Uva"
+        ], 
+        "X": [
+            "Xix\u00e1"
+        ], 
+        "Y": [
+            "Yuzu"
+        ], 
+        "Z": [
+            "Zefati", 
+            "Zitrone"
         ]
     }, 
     "CONDADO (USA /US)": {
@@ -2338,37 +2395,7 @@ var stopCheats = {
         "P": [
             "P\u00e9-de-Atleta", 
             "Pedras Nos Rins", 
-            "Pele Oleosa", 
-            "Pele Seca, Escoria\u00e7\u00f5es", 
-            "Pneumonia", 
-            "Problemas Card\u00edacos"
-        ], 
-        "Q": [
-            "Queimaduras De Sol"
-        ], 
-        "R": [
-            "Resfriado Comum", 
-            "Rinite \u2013 Catarro Nasal", 
-            "Ronco", 
-            "Rugas"
-        ], 
-        "S": [
-            "S\u00edfilis", 
-            "S\u00edndrome da Fadiga Emocional", 
-            "Sinusite"
-        ], 
-        "T": [
-            "Tendinite", 
-            "Ter\u00e7ol", 
-            "Tosse", 
-            "Tuberculose"
-        ], 
-        "U": [
-            "\u00dalcera G\u00e1strica, \u00dalcera P\u00e9ptica", 
-            "Unhas, Problemas Com As"
-        ], 
-        "V": [
-            "Verrugas"
+            "Pele Oleosa"
         ]
     }, 
     "ELEMENTO QUIMICO": {
@@ -2649,6 +2676,140 @@ var stopCheats = {
             "Zarabatana (Prova)."
         ]
     }, 
+    "ESPORTISTA": {
+        "A": [
+            "ALAIN PROST", 
+            "ALEXANDER POPOV", 
+            "ANDERSON SILVA", 
+            "ANDR\u00c9 AGASSI", 
+            "AYRTON SENNA"
+        ], 
+        "B": [
+            "BABE RUTH", 
+            "BECKENBAUER", 
+            "BJORN BORG", 
+            "BO JACKSON", 
+            "BORIS BECKER", 
+            "BRUCE LEE"
+        ], 
+        "C": [
+            "CARL LEWIS", 
+            "CRISTIANO RONALDO"
+        ], 
+        "D": [
+            "DI ST\u00c9FANO"
+        ], 
+        "E": [
+            "EMILIANENKO FEDOR", 
+            "EVANDER HOLYFIELD"
+        ], 
+        "F": [
+            "FALC\u00c3O", 
+            "FERENC PUSKAS"
+        ], 
+        "G": [
+            "GABRIELA SABATINI", 
+            "GARETH EDWARDS", 
+            "GARRINCHA", 
+            "GEORGE FOREMAN", 
+            "GIBA", 
+            "GUGA"
+        ], 
+        "H": [
+            "HORT\u00caNCIA", 
+            "HUGO PORTA"
+        ], 
+        "I": [
+            "IAN THORPE", 
+            "INIESTA", 
+            "IVANO BALIC"
+        ], 
+        "J": [
+            "JAVIER SOTOMAYOR", 
+            "JESSE OWENS", 
+            "JOE MONTANA", 
+            "JOHAN CRUYFF", 
+            "JUAN MANUEL FANGIO", 
+            "JULIO CESAR CHAVEZ"
+        ], 
+        "K": [
+            "KARCH KIRALY", 
+            "KAREEM ABDUL JABBAR", 
+            "KARL MALONE", 
+            "KOBE BRYANT"
+        ], 
+        "L": [
+            "LANCE ARMSTRONG", 
+            "LARRY BIRD", 
+            "LEBRON JAMES"
+        ], 
+        "M": [
+            "MAGIC JOHNSON", 
+            "MARADONA", 
+            "MARK SPITZ", 
+            "MARTA", 
+            "MARTINA HINGIS", 
+            "MARTINA NAVRATILOVA", 
+            "MESSI", 
+            "MICHAEL DOOHAN", 
+            "MICHAEL JOHNSON", 
+            "MICHAEL JORDAN", 
+            "MICHAEL PHELPS", 
+            "MICHAEL SCHUMACHER", 
+            "MIKE TYSON", 
+            "MONICA SELES", 
+            "MUHAMMAD ALI"
+        ], 
+        "N": [
+            "NADIA COMANECI", 
+            "NIKOLAI ANDRIANOV"
+        ], 
+        "O": [
+            "OSCAR"
+        ], 
+        "P": [
+            "PEL\u00c9", 
+            "PETE SAMPRAS", 
+            "PLATINI"
+        ], 
+        "R": [
+            "RAFAEL NADAL", 
+            "ROBERT SCHEIDT", 
+            "ROCKY MARCIANO", 
+            "ROGER FEDERER", 
+            "ROGER MILLA", 
+            "ROM\u00c1RIO", 
+            "RONALDO"
+        ], 
+        "S": [
+            "SERENA WILLIAMS", 
+            "SERGUEI BUBKA", 
+            "SHAQUILLE O\u00b4NEAL", 
+            "SIMONE BILES", 
+            "STEFFI GRAF"
+        ], 
+        "T": [
+            "TIGER WOODS", 
+            "TINA THOMPSON", 
+            "TOM BRADY"
+        ], 
+        "U": [
+            "USAIN BOLT"
+        ], 
+        "V": [
+            "VALENTINO ROSSI"
+        ], 
+        "W": [
+            "WAYNE GRETZKY"
+        ], 
+        "Y": [
+            "YELENA ISINBAYEVA"
+        ], 
+        "Z": [
+            "ZICO", 
+            "ZIDANE"
+        ]
+    }, 
     "FANTASIA": {
         "A": [
             "Alice no pais das maravilhas", 
@@ -2898,8 +3059,7 @@ var stopCheats = {
             "Amor-perfeito", 
             "Ant\u00fario", 
             "Astrom\u00e9lia", 
-            "Azal\u00e9ia", 
-            "\u00c1ster-arbustiva"
+            "Azal\u00e9ia"
         ], 
         "B": [
             "Beg\u00f4nia", 
@@ -2963,138 +3123,7 @@ var stopCheats = {
         "G": [
             "Gard\u00eania", 
             "Ger\u00e2nio", 
-            "Girassol", 
-            "Glic\u00ednia", 
-            "Glox\u00ednia", 
-            "Gravat\u00e1", 
-            "G\u00e9rbera"
-        ], 
-        "H": [
-            "Helic\u00f4nia", 
-            "Hel\u00e9boro", 
-            "Hemerocale", 
-            "Hibisco", 
-            "Hort\u00eansia"
-        ], 
-        "I": [
-            "Iberis", 
-            "Impatiens", 
-            "Ip\u00ea", 
-            "Ixora-rei", 
-            "\u00cdris"
-        ], 
-        "J": [
-            "Jaborandi", 
-            "Jacarand\u00e1", 
-            "Jacinto", 
-            "Jasmim", 
-            "Junquilho", 
-            "Just\u00edcia"
-        ], 
-        "K": [
-            "Kalancho\u00ea", 
-            "Kangoroo Paw", 
-            "Kusudama"
-        ], 
-        "L": [
-            "Lavanda", 
-            "Lil\u00e1s", 
-            "Lisianto", 
-            "L\u00e9ia-rubra", 
-            "L\u00edrio", 
-            "L\u00f3tus"
-        ], 
-        "M": [
-            "Magn\u00f3lia", 
-            "Malva", 
-            "Manac\u00e1-da-serra", 
-            "Margarida", 
-            "Monjola"
-        ], 
-        "N": [
-            "Narciso", 
-            "Nen\u00fafar", 
-            "Nube", 
-            "N\u00e3o-me-esque\u00e7as"
-        ], 
-        "O": [
-            "Oleandro", 
-            "Onze-horas", 
-            "Orelha-de-on\u00e7a", 
-            "Orelha-de-urso", 
-            "Orqu\u00eddea"
-        ], 
-        "P": [
-            "Papoula", 
-            "Pet\u00fania", 
-            "Poins\u00e9tia", 
-            "Primavera", 
-            "Pr\u00edmula"
-        ], 
-        "Q": [
-            "Quaresmeira", 
-            "Quiabo de Jardim", 
-            "Quimera", 
-            "Quinoa"
-        ], 
-        "R": [
-            "Ran\u00fanculo", 
-            "Rosa", 
-            "Russ\u00e9lia"
-        ], 
-        "S": [
-            "Safira", 
-            "Saia-branca", 
-            "Samambaia", 
-            "Sangue de Cristo", 
-            "Sapateira", 
-            "Sapatinho de Judia", 
-            "Sarandi", 
-            "Sardinheira", 
-            "Sarit\u00e9ia", 
-            "Saudade", 
-            "Sa\u00faco"
-        ], 
-        "T": [
-            "Tagetes", 
-            "Tran\u00e7a-de-cigana", 
-            "Trapoeraba", 
-            "Trepadeira", 
-            "Trevo Roxo", 
-            "Tulipa"
-        ], 
-        "U": [
-            "Udumbara", 
-            "Ulmo", 
-            "Umbela", 
-            "Umbigo de Vi\u00fava", 
-            "Urtiga"
-        ], 
-        "V": [
-            "Ved\u00e9lia", 
-            "Violeta", 
-            "Vit\u00f3ria-r\u00e9gia", 
-            "Vi\u00fava-negra"
-        ], 
-        "W": [
-            "Wakanda", 
-            "Watsonia", 
-            "Wisteria", 
-            "Wolfsbane"
-        ], 
-        "X": [
-            "Xanadu", 
-            "Xanana", 
-            "Xaxim", 
-            "Xena"
-        ], 
-        "Y": [
-            "Yasmim", 
-            "Yucca"
-        ], 
-        "Z": [
-            "Zamia", 
-            "Z\u00ednia"
+            "Girassol"
         ]
     }, 
     "FLV": {
@@ -3152,7 +3181,6 @@ var stopCheats = {
     }, 
     "FRUTA": {
         "A": [
-            "Abacaxi", 
             "Abacate", 
             "Abacaxi", 
             "Abiu", 
@@ -3165,10 +3193,10 @@ var stopCheats = {
             "Anon\u00e1cea", 
             "Ara\u00e7\u00e1", 
             "Azeitona", 
-            "A\u00e7a\u00ed"
+            "A\u00e7a\u00ed", 
+            "Abacaxi"
         ], 
         "B": [
-            "Banana", 
             "Babaco", 
             "Bacaba", 
             "Bacuri", 
@@ -3177,10 +3205,10 @@ var stopCheats = {
             "Bilimbi", 
             "Birib\u00e1", 
             "Buriti", 
-            "Buti\u00e1"
+            "Buti\u00e1", 
+            "Banana"
         ], 
         "C": [
-            "Caju", 
             "Cabeludinha", 
             "Cacau", 
             "Cagaita", 
@@ -3198,29 +3226,29 @@ var stopCheats = {
             "Cereja", 
             "Coco", 
             "Conde", 
-            "Cupua\u00e7u"
+            "Cupua\u00e7u", 
+            "Caju"
         ], 
         "D": [
             "Damasco", 
-            "Damasco", 
             "Dovyalis", 
-            "Duri\u00e3o"
+            "Duri\u00e3o", 
+            "Damasco"
         ], 
         "E": [
             "Emba\u00faba", 
             "Emba\u00faba"
         ], 
         "F": [
-            "Figo", 
             "Feijoa", 
             "Figo", 
             "Framboesa", 
             "Fruta-do-conde", 
             "Fruta-p\u00e3o", 
-            "Frutas do cerrado"
+            "Frutas do cerrado", 
+            "Figo"
         ], 
         "G": [
-            "Gravat\u00e1", 
             "Glicosmis", 
             "Goiaba", 
             "Granadilla", 
@@ -3230,151 +3258,68 @@ var stopCheats = {
             "Guabiju", 
             "Guabiroba", 
             "Guaran\u00e1", 
-            "Guariroba"
+            "Guariroba", 
+            "Gravat\u00e1"
         ], 
         "H": [
             "Heisteria", 
-            "Heisteria", 
-            "Himbeere"
+            "Himbeere", 
+            "Heisteria"
         ], 
         "I": [
-            "Ing\u00e1", 
             "Ilama", 
             "Ing\u00e1"
         ], 
         "J": [
-            "Jatob\u00e1", 
-            "Jabuticaba", 
-            "Jaca", 
-            "Jambo", 
-            "Jambol\u00e3o", 
-            "Jamel\u00e3o", 
-            "Jaracati\u00e1", 
-            "Jatob\u00e1", 
-            "Jenipapo", 
-            "Jeriv\u00e1", 
-            "Jujuba"
+            "Jatob\u00e1"
         ], 
         "K": [
-            "Kabosu", 
-            "Kiwi"
+            "Kabosu"
         ], 
         "L": [
-            "Lim\u00e3o", 
-            "Langsat", 
-            "Laranja", 
-            "Lichia", 
-            "Limas \u00c1cidas e Doces", 
-            "Lim\u00e3o", 
-            "Longan", 
-            "Lucuma"
+            "Lim\u00e3o"
         ], 
         "M": [
-            "Ma\u00e7\u00e3", 
-            "Mabolo", 
-            "Macad\u00e2mia", 
-            "Mamey", 
-            "Mamoncillo", 
-            "Mam\u00e3o", 
-            "Manga", 
-            "Mangaba", 
-            "Mangost\u00e3o", 
-            "Man\u00e1", 
-            "Maracuj\u00e1", 
-            "Marmeladinha", 
-            "Marmelo", 
-            "Marolo", 
-            "Marula", 
-            "Massala", 
-            "Ma\u00e7\u00e3", 
-            "Melancia", 
-            "Mel\u00e3o", 
-            "Mirtilo", 
-            "Morango", 
-            "Murici"
+            "Ma\u00e7\u00e3"
         ], 
         "N": [
-            "N\u00easpera", 
-            "Naranjilla", 
-            "Nectarina", 
-            "Noni", 
-            "Noz Pec\u00e3", 
             "N\u00easpera"
         ], 
         "O": [
-            "Oxicoco", 
-            "Olho-De-Boi"
+            "Oxicoco"
         ], 
         "P": [
-            "Pera", 
-            "Pequi", 
-            "Physalis", 
-            "Pinha", 
-            "Pinh\u00e3o", 
-            "Pistache", 
-            "Pitanga", 
-            "Pitang\u00e3o", 
-            "Pitaya", 
-            "Pitomba", 
-            "Pulasan", 
-            "Pupunha", 
-            "P\u00eara", 
-            "P\u00eassego"
+            "Pera"
         ], 
         "Q": [
-            "Quiu\u00ed", 
-            "Quina"
+            "Quiu\u00ed"
         ], 
         "R": [
-            "Rom\u00e3", 
-            "Rambut\u00e3o", 
             "Rom\u00e3"
         ], 
         "S": [
-            "Sapoti", 
-            "Salak", 
-            "Santol", 
-            "Sapoti", 
-            "Sapucaia", 
-            "Sapucaia", 
-            "Seriguela"
+            "Sapoti"
         ], 
         "T": [
-            "Tamarindo", 
-            "Tai\u00fava", 
-            "Tamarindo", 
-            "Tangerina", 
-            "Tarum\u00e3", 
-            "Tomate", 
-            "Toranja", 
-            "T\u00e2mara"
+            "Tamarindo"
         ], 
         "U": [
-            "Uva", 
-            "Umbu", 
-            "Um\u00ea", 
-            "Uva", 
-            "Uvaia"
+            "Uva"
         ], 
         "V": [
-            "Veludo", 
             "Veludo"
         ], 
         "W": [
             "Wampi"
         ], 
         "X": [
-            "Xix\u00e1", 
             "Xix\u00e1"
         ], 
         "Y": [
-            "Yuzu", 
-            "Yamamomo"
+            "Yuzu"
         ], 
         "Z": [
-            "Zitrone.", 
-            "Zimbro", 
-            "Zitrone"
+            "Zitrone."
         ]
     }, 
     "GAME": {
@@ -3749,6 +3694,114 @@ var stopCheats = {
             "Violino"
         ]
     }, 
+    "JLR": {
+        "A": [
+            "A B\u00fassola De Ouro", 
+            "A Culpa \u00c9 das Estrelas", 
+            "A Menina do Vale", 
+            "A Menina e o Porquinho", 
+            "A Menina Que Roubava Livros", 
+            "A Sangue Frio", 
+            "Alice", 
+            "Ardil 22"
+        ], 
+        "B": [
+            "Boa Noite, Lua"
+        ], 
+        "C": [
+            "Cozinha Confidencial", 
+            "Cozinhar: Uma Hist\u00f3ria Natural Da Transforma\u00e7\u00e3o"
+        ], 
+        "D": [
+            "Di\u00e1rio de Um Banana", 
+            "Duna"
+        ], 
+        "E": [
+            "Em Busca de Sentido"
+        ], 
+        "F": [
+            "Fahrenheit 451"
+        ], 
+        "G": [
+            "Garota Exemplar", 
+            "Grandes Esperan\u00e7as"
+        ], 
+        "H": [
+            "Harry Potter e a Pedra Filosofal", 
+            "Homem Invis\u00edvel"
+        ], 
+        "I": [
+            "Int\u00e9rprete de Males", 
+            "Invenc\u00edvel"
+        ], 
+        "J": [
+            "Jimmy Corrigan", 
+            "Jogos Vorazes"
+        ], 
+        "K": [
+            "K2 Vida e morte na montanha", 
+            "Kafka a beira do mar", 
+            "Kamasutra"
+        ], 
+        "L": [
+            "Lincoln", 
+            "Lolita", 
+            "Love Medicine"
+        ], 
+        "M": [
+            "Matadouro 5", 
+            "Mau Come\u00e7o", 
+            "Medo e Del\u00edrio em Las Vegas", 
+            "Middlesex", 
+            "Moneyball: O Homem que Mudou o Jogo", 
+            "Muito Longe de Casa"
+        ], 
+        "N": [
+            "Nascido para Correr"
+        ], 
+        "O": [
+            "O Amor nos Tempos do C\u00f3lera", 
+            "O Apanhador no Campo de Centeio", 
+            "O Conto da Aia", 
+            "O D\u00e9cimo Primeiro Mandamento", 
+            "O Di\u00e1rio de Anne Frank", 
+            "O Grande Gatsby", 
+            "O Sol \u00c9 Para Todos", 
+            "On The Road", 
+            "Onde Vivem os Monstros", 
+            "Orgulho e Preconceito"
+        ], 
+        "P": [
+            "P\u00e9 Na Estrada", 
+            "Pers\u00e9polis"
+        ], 
+        "S": [
+            "Servid\u00e3o Humana"
+        ], 
+        "T": [
+            "Todos os Homens do Presidente", 
+            "Tudo Depende de Como Voc\u00ea V\u00ea As Coisas"
+        ], 
+        "U": [
+            "Uma Breve Hist\u00f3ria do Tempo", 
+            "Uma Dobra no Tempo"
+        ], 
+        "V": [
+            "Vale das Bonecas", 
+            "Voc\u00ea est\u00e1 a\u00ed, Deus? Sou eu, Margaret"
+        ], 
+        "W": [
+            "Where the Sidewalk Ends", 
+            "Windows 95: Guia do usu\u00e1rio"
+        ], 
+        "X": [
+            "Xadrez Mortal", 
+            "Xisto no espa\u00e7o"
+        ], 
+        "Z": [
+            "Zezinho dono da porquinha preta"
+        ]
+    }, 
     "LIQUIDO": {
         "A": [
             "Absinto", 
@@ -3828,8 +3881,8 @@ var stopCheats = {
     }, 
     "MAMIFERO": {
         "A": [
-            "Anta", 
             "Alce", 
+            "Anta", 
             "Alpaca"
         ], 
         "B": [
@@ -3838,8 +3891,8 @@ var stopCheats = {
             "Bulafo"
         ], 
         "C": [
-            "Camelo", 
-            "Cabra"
+            "Cabra", 
+            "Camelo"
         ], 
         "D": [
             "Doninha", 
@@ -3851,12 +3904,12 @@ var stopCheats = {
             "Esquilo"
         ], 
         "F": [
-            "Fur\u00e3o", 
-            "Foca"
+            "Foca", 
+            "Fur\u00e3o"
         ], 
         "G": [
-            "Gato", 
             "Gamb\u00e1", 
+            "Gato", 
             "Gamb\u00e1"
         ], 
         "H": [
@@ -3866,24 +3919,24 @@ var stopCheats = {
             "Homem"
         ], 
         "I": [
-            "Impala", 
-            "Iaque"
+            "Iaque", 
+            "Impala"
         ], 
         "J": [
-            "Javali", 
-            "Jaguar"
+            "Jaguar", 
+            "Javali"
         ], 
         "K": [
             "Kudu"
         ], 
         "L": [
-            "Le\u00e3o", 
             "Lobo", 
+            "Le\u00e3o", 
             "Lebre"
         ], 
         "M": [
-            "Morsa", 
-            "Macaco"
+            "Macaco", 
+            "Morsa"
         ], 
         "N": [
             "Nutria"
@@ -3901,13 +3954,13 @@ var stopCheats = {
             "Quati"
         ], 
         "R": [
+            "Rato", 
             "Raposa", 
-            "Rena", 
-            "Rato"
+            "Rena"
         ], 
         "S": [
-            "Suricate", 
-            "Sag\u00fci"
+            "Sag\u00fci", 
+            "Suricate"
         ], 
         "T": [
             "Tatu", 
@@ -3918,16 +3971,13 @@ var stopCheats = {
             "Urso"
         ], 
         "V": [
-            "Veado", 
             "Vaca", 
+            "Veado", 
             "Vicunha"
         ], 
-        "X": [
-            "X??"
-        ], 
         "Z": [
-            "Zebu", 
             "Zorrilho.", 
+            "Zebu", 
             "Zebra"
         ]
     }, 
@@ -4153,339 +4203,7 @@ var stopCheats = {
             "Champiot", 
             "Charabanc", 
             "Charrete", 
-            "Chata", 
-            "Ciclo-riquix\u00e1", 
-            "Clipper", 
-            "Cocotaxi", 
-            "Colheitadeira", 
-            "Comboio", 
-            "Concorde", 
-            "Conteineiro", 
-            "Convertiplano", 
-            "Cruzador de Neve", 
-            "Cyclo", 
-            "C\u00e1brea", 
-            "C\u00fater"
-        ], 
-        "D": [
-            "Dala Dala", 
-            "Demoiselle", 
-            "Dhow", 
-            "Diciclo", 
-            "Dirig\u00edvel", 
-            "Dollar Van", 
-            "Dollies", 
-            "Dolly", 
-            "Dolmus", 
-            "Double Deck", 
-            "Draga", 
-            "Dresina", 
-            "Drone", 
-            "Dr\u00f3mon"
-        ], 
-        "E": [
-            "ElettroTreno", 
-            "Elevador", 
-            "Empilhadeira", 
-            "Empurrador Fluvial", 
-            "Enfardadora", 
-            "Escada Rolante", 
-            "Escadas de Embarque", 
-            "Escavadeira", 
-            "Escorregador", 
-            "Escuna", 
-            "Espa\u00e7onave", 
-            "Esquife", 
-            "Esteira rolante"
-        ], 
-        "F": [
-            "Felucca", 
-            "Ferry-boat", 
-            "Fiaker", 
-            "Flatbed", 
-            "Flotel", 
-            "Flutuante", 
-            "Foguete", 
-            "Fragata", 
-            "Frigor\u00edfico", 
-            "Funicular", 
-            "Furg\u00e3o", 
-            "Fusta", 
-            "F\u00e1eton"
-        ], 
-        "G": [
-            "Galera", 
-            "Gale\u00e3o", 
-            "Gaseiro", 
-            "Giroc\u00f3ptero", 
-            "Goleta", 
-            "Graneleiro", 
-            "Grua", 
-            "Guincho", 
-            "Guindaste", 
-            "Gyrobus", 
-            "G\u00f4ndola"
-        ], 
-        "H": [
-            "Habal-habal", 
-            "Helic\u00f3ptero", 
-            "Hexac\u00f3ptero", 
-            "Hiate de Set\u00fabal", 
-            "Hidravi\u00e3o", 
-            "Hidrof\u00f3lio", 
-            "Hidroplano", 
-            "Homebuilt", 
-            "Hoverboard", 
-            "Hovercraft", 
-            "Howdah", 
-            "Huskies tren\u00f3", 
-            "Hyperbike", 
-            "H\u00edbridos"
-        ], 
-        "I": [
-            "Iate", 
-            "Implementos Agr\u00edcolas", 
-            "Infl\u00e1vel", 
-            "Iole"
-        ], 
-        "J": [
-            "Jangada", 
-            "Jardineira", 
-            "Jeepney", 
-            "Jet-ski", 
-            "Jetpack", 
-            "Junco"
-        ], 
-        "K": [
-            "Karozzin", 
-            "Karve", 
-            "Ketche", 
-            "Kibitka", 
-            "Kite Surf", 
-            "Kundapp"
-        ], 
-        "L": [
-            "Lambreta", 
-            "Lancha", 
-            "Liaoning", 
-            "Liburna", 
-            "Limousine", 
-            "Liteira", 
-            "Litorina", 
-            "Locomotiva", 
-            "Long-board", 
-            "Lorcha", 
-            "Lowboy", 
-            "Lugre", 
-            "Luzito"
-        ], 
-        "M": [
-            "Maglev", 
-            "Marshrutka", 
-            "Matatu", 
-            "Maxi-trail", 
-            "Metr\u00f4", 
-            "Micro-\u00f4nibus", 
-            "Microtrator", 
-            "Midibus", 
-            "Mokoro", 
-            "Monocasco", 
-            "Monociclo", 
-            "Monomotor", 
-            "Monoposto", 
-            "Monotrilho", 
-            "Moto", 
-            "Moto esqui", 
-            "Moto-t\u00e1xi", 
-            "Motocicleta", 
-            "Motoneta", 
-            "Motoneve", 
-            "Multicasco", 
-            "Multiprop\u00f3sito"
-        ], 
-        "N": [
-            "Naked", 
-            "Nanny Van", 
-            "Naturmobil", 
-            "Nau", 
-            "Nave Espacial", 
-            "Navio", 
-            "Norry"
-        ], 
-        "O": [
-            "Octac\u00f3pteros", 
-            "Off-road", 
-            "Oleoduto", 
-            "Open Top Bus", 
-            "\u00d4nibus", 
-            "\u00d4nibus Espacial"
-        ], 
-        "P": [
-            "Palanquim", 
-            "Paleteira", 
-            "Paleteira", 
-            "Palhabote", 
-            "Pangolina", 
-            "Panzer", 
-            "Papam\u00f3vel", 
-            "Para-quedas", 
-            "Patacho", 
-            "Patins", 
-            "Patrola", 
-            "Pedalcar", 
-            "Pedalinho", 
-            "Pedicab", 
-            "Pesero", 
-            "Pesqueiro", 
-            "Petroleiro", 
-            "Pina\u00e7a", 
-            "Pivot", 
-            "Planador", 
-            "Planador de Neve", 
-            "Plantadeira", 
-            "Plataforma", 
-            "Pocketbike", 
-            "Polaca", 
-            "Porta-avi\u00f5es", 
-            "Prancha", 
-            "Prebici", 
-            "Pulverizador", 
-            "Pushback"
-        ], 
-        "Q": [
-            "Quad", 
-            "Quadriciclo", 
-            "Quadric\u00f3ptero", 
-            "Quadrimotor", 
-            "Quadrofoil", 
-            "Quattrocycle", 
-            "Quebra-gelo", 
-            "Quel\u00e2ndio", 
-            "Quinquerreme"
-        ], 
-        "R": [
-            "RTG", 
-            "Rastreador de Neve", 
-            "Reabastecedor", 
-            "Reachstacker", 
-            "Rebocador", 
-            "Retroescavadeira", 
-            "Ripsaw", 
-            "Riquix\u00e1", 
-            "Roller"
-        ], 
-        "S": [
-            "SUV", 
-            "Samlor", 
-            "Scooter", 
-            "Screw-propelled Vehicle", 
-            "Segadeira", 
-            "Semirreboque", 
-            "Side Car", 
-            "Sidelifter", 
-            "Sideloader", 
-            "Sider", 
-            "Skate", 
-            "Skibob", 
-            "Sloop", 
-            "Soleckshaw", 
-            "Stand-up Paddle", 
-            "Straddle Carrier", 
-            "Submarino", 
-            "Submers\u00edvel", 
-            "Sumaca", 
-            "Superporta-avi\u00f5es", 
-            "Supers\u00f4nico", 
-            "Surrey"
-        ], 
-        "T": [
-            "TH NK Frost", 
-            "Tanque", 
-            "Tatra Aeroluge", 
-            "Telef\u00e9rico", 
-            "Telega", 
-            "Tico-tico", 
-            "Tirolesa", 
-            "Tobata", 
-            "Tobog\u00e3", 
-            "Toco", 
-            "Torpedeiro", 
-            "Trailer", 
-            "Trailerbus", 
-            "Trailmate", 
-            "Transatl\u00e2ntico", 
-            "Transportadores", 
-            "Transrapid", 
-            "Transtainer", 
-            "Trator", 
-            "Trawler", 
-            "Trem", 
-            "Trem Bala", 
-            "Tren\u00f3", 
-            "Triciclo", 
-            "Trijato", 
-            "Trimaran", 
-            "Trirreme", 
-            "Trishaw", 
-            "Trisikad", 
-            "Tritrem", 
-            "Tro Tro", 
-            "Troika", 
-            "Trolleybus", 
-            "Tucker Sno-cat", 
-            "Tuk-tuk", 
-            "Turbo-h\u00e9lice", 
-            "T\u00e1ndem"
-        ], 
-        "U": [
-            "UAZ-452", 
-            "ULD", 
-            "Ultraleve", 
-            "Underbone", 
-            "Uprider", 
-            "Urbano", 
-            "Urutu", 
-            "Utilit\u00e1rio"
-        ], 
-        "V": [
-            "Vag\u00e3o", 
-            "Van", 
-            "Vaporetto", 
-            "Varino", 
-            "Veleiro", 
-            "Veloc\u00edpede", 
-            "Velom\u00f3vel", 
-            "Viatura", 
-            "Voadeira", 
-            "Vozok"
-        ], 
-        "W": [
-            "WLA", 
-            "Wagon", 
-            "Wagonette", 
-            "Walking Bike", 
-            "Waterbus", 
-            "Watercraft", 
-            "Watertaxi", 
-            "Wheelie", 
-            "Wind Surf", 
-            "Wright Flyer"
-        ], 
-        "X": [
-            "X-tudo", 
-            "X2000", 
-            "Xaveco"
-        ], 
-        "Y": [
-            "Yawl", 
-            "Yngling"
-        ], 
-        "Z": [
-            "ZIL Amphibious", 
-            "Zambuco", 
-            "Zeppelin", 
-            "Zip Line", 
-            "Zorra"
+            "Chata"
         ]
     }, 
     "MINERAL": {
@@ -4955,6 +4673,35 @@ var stopCheats = {
         "S": [
             "Sandra", 
             "S\u00edlvio"
+        ], 
+        "T": [
+            "Thales", 
+            "Thiago"
+        ], 
+        "U": [
+            "Ubiratan", 
+            "Ubaldo", 
+            "Umbelina"
+        ], 
+        "V": [
+            "Vagner", 
+            "Vanderleia", 
+            "Vanessa"
+        ], 
+        "W": [
+            "Wanessa", 
+            "Wagner"
+        ], 
+        "X": [
+            "Ximena"
+        ], 
+        "Y": [
+            "Yago", 
+            "Yara"
+        ], 
+        "Z": [
+            "Zuleide", 
+            "Zaira"
         ]
     }, 
     "NOME FEMININO": {
@@ -5351,113 +5098,186 @@ var stopCheats = {
             "Zimb\u00e1bue."
         ]
     }, 
+    "PALAVRA EM ESPANHOL": {
+        "A": [
+            "Adi\u00f3s", 
+            "Ahora", 
+            "Amigo", 
+            "Antes"
+        ], 
+        "B": [
+            "Bajo", 
+            "Beber", 
+            "Bien", 
+            "Bueno"
+        ], 
+        "C": [
+            "Chico,", 
+            "Comer", 
+            "Como", 
+            "Conocer", 
+            "Contento", 
+            "Cosa", 
+            "Creer", 
+            "Cuando"
+        ], 
+        "D": [
+            "De", 
+            "Deber", 
+            "Decir", 
+            "Desde", 
+            "Donde", 
+            "Durante"
+        ], 
+        "E": [
+            "Echar", 
+            "El,", 
+            "\u00c9l,", 
+            "Empezar", 
+            "Encontrar", 
+            "Entender", 
+            "Entre", 
+            "Escuchar", 
+            "Estar"
+        ], 
+        "F": [
+            "Fecha"
+        ], 
+        "G": [
+            "Gracias", 
+            "Grande", 
+            "Gustar"
+        ], 
+        "H": [
+            "Haber", 
+            "Hacer", 
+            "Hasta", 
+            "Hola", 
+            "Hombre", 
+            "Hora"
+        ], 
+        "I": [
+            "Ir"
+        ], 
+        "J": [
+            "juego"
+        ], 
+        "L": [
+            "Leer", 
+            "Llevar"
+        ], 
+        "M": [
+            "Malo,", 
+            "M\u00e1s", 
+            "Mismo", 
+            "Mucho", 
+            "Mujer", 
+            "Muy"
+        ], 
+        "N": [
+            "Nosotros", 
+            "Nunca"
+        ], 
+        "O": [
+            "Otro"
+        ], 
+        "P": [
+            "Para", 
+            "Pensar", 
+            "Poder", 
+            "Poner", 
+            "Por", 
+            "Porque", 
+            "Primero"
+        ], 
+        "Q": [
+            "Qui\u00e9n"
+        ], 
+        "R": [
+            "realidad"
+        ]
+    }, 
     "PALAVRA EM INGLES": {
         "A": [
-            "Ant (Formiga)", 
             "all"
         ], 
         "B": [
-            "Bat (Morcego)", 
             "before"
         ], 
         "C": [
-            "carnival", 
-            "Cat (Gato)"
+            "carnival"
         ], 
         "D": [
-            "Dog (Cachorro)", 
             "dinosaur"
         ], 
         "E": [
-            "Elephant (Elefante)", 
             "elephant"
         ], 
         "F": [
-            "fill", 
-            "Fox (Raposa)"
+            "fill"
         ], 
         "G": [
-            "Goose (Ganso)", 
             "gore"
         ], 
         "H": [
-            "Horse (Cavalo)", 
             "helicopter"
         ], 
         "I": [
-            "idiot", 
-            "Impala (Impala)"
+            "idiot"
         ], 
         "J": [
-            "Jackal (Chacal)", 
             "jump"
         ], 
         "K": [
-            "Kangaroo (Canguru)", 
             "kill"
         ], 
         "L": [
-            "loser", 
-            "Lion (Le\u00e3o)"
+            "loser"
         ], 
         "M": [
-            "Mouse (Rato)", 
             "mother"
         ], 
         "N": [
-            "Nightingale (Rouxinol)", 
             "nevwr"
         ], 
         "O": [
-            "object", 
-            "Ox (Boi)"
+            "object"
         ], 
         "P": [
-            "Pig (Porco)", 
             "parking"
         ], 
         "Q": [
-            "Quail (Codorna)", 
             "quit"
         ], 
         "R": [
-            "roll", 
-            "Rabbit (Coelho)"
+            "roll"
         ], 
         "S": [
-            "Spider (Aranha)", 
             "start"
         ], 
         "T": [
-            "Toad (Sapo)", 
             "turn"
         ], 
         "U": [
-            "unsweet", 
-            "U??"
+            "unsweet"
         ], 
         "V": [
-            "Vicu\u00f1a (Vicunha)", 
             "vagina"
         ], 
         "W": [
-            "Wolf (Lobo)", 
             "water"
         ], 
         "X": [
-            "xenophobic", 
-            "X??"
+            "xenophobic"
         ], 
         "Y": [
-            "Yak (Iaque)", 
             "yellow"
         ], 
         "Z": [
-            "Zebra (Zebra).", 
             "zoologic"
         ]
     }, 
-    "PAPA (IGREJA CATOLICA)": {
+    "PAPA": {
         "A": [
             "Agat\u00e3o"
         ], 
@@ -6154,760 +5974,59 @@ var stopCheats = {
             "Carreteiro", 
             "Carroceiro", 
             "Carteiro", 
-            "Cartomante", 
-            "Cart\u00f3grafo", 
-            "Cavaleiro", 
-            "Ca\u00e7ambeiro", 
-            "Ceramista", 
-            "Cervejeiro", 
-            "Chapeleiro", 
-            "Chargista", 
-            "Chefe", 
-            "Chofer", 
-            "Churrasqueiro", 
-            "Cientista", 
-            "Cineasta", 
-            "Cirurgi\u00e3o", 
-            "Citologista", 
-            "Cocheiro", 
-            "Colunista", 
-            "Comboieiro", 
-            "Comediante", 
-            "Compositor", 
-            "Consultor", 
-            "Contabilista", 
-            "Contador", 
-            "Contat\u00f3logo", 
-            "Contorcionista", 
-            "Contramestre", 
-            "Coordenador", 
-            "Copeiro", 
-            "Core\u00f3grafo", 
-            "Coronel", 
-            "Cotonicultor", 
-            "Coveiro", 
-            "Cozinheiro", 
-            "Criminalista", 
-            "Cunicultor", 
-            "Cuteleiro"
-        ], 
-        "D": [
-            "Datiloscopista", 
-            "Datil\u00f3grafo", 
-            "Declamador", 
-            "Decorador", 
-            "Dedetizador", 
-            "Delegado", 
-            "Dem\u00f3grafo", 
-            "Dentista", 
-            "Dermatologista", 
-            "Desembargador", 
-            "Desenhista", 
-            "Designer", 
-            "Despachante", 
-            "Destilador", 
-            "Detetive", 
-            "Diarista", 
-            "Diretor", 
-            "Dirigente", 
-            "Discotec\u00e1rio", 
-            "Di\u00e1cono", 
-            "Doceiro", 
-            "Documentalista", 
-            "Domador", 
-            "Dramaturgista", 
-            "Dramaturgo", 
-            "Duteiro"
-        ], 
-        "E": [
-            "Ecologista", 
-            "Economista", 
-            "Ec\u00f3logo", 
-            "Edificador", 
-            "Editor", 
-            "Editorialista", 
-            "Eletricista", 
-            "Eletrot\u00e9cnico", 
-            "Embalsamador", 
-            "Empacotador", 
-            "Empregado", 
-            "Empreiteiro", 
-            "Empres\u00e1rio", 
-            "Encanador", 
-            "Encarregado", 
-            "Enciclopedista", 
-            "Endocrinologista", 
-            "Endoscopista", 
-            "Enfardador", 
-            "Enfermeira", 
-            "Engarrafador", 
-            "Engenheiro", 
-            "Engraxate", 
-            "Entom\u00f3logo", 
-            "Entrevistador", 
-            "En\u00f3logo", 
-            "Epidemiologista", 
-            "Escrevente", 
-            "Escritor", 
-            "Escritur\u00e1rio", 
-            "Escriv\u00e3o", 
-            "Escultor", 
-            "Esmaltador", 
-            "Esot\u00e9rico", 
-            "Especialista", 
-            "Espelhador", 
-            "Estafeta", 
-            "Estat\u00edstico", 
-            "Esteticista", 
-            "Estofador", 
-            "Estoquista", 
-            "Exportador", 
-            "Extrator"
-        ], 
-        "F": [
-            "Fabulista", 
-            "Farmac\u00eautico", 
-            "Faxineiro", 
-            "Fazendeiro", 
-            "Feirante", 
-            "Feitor", 
-            "Fermentador", 
-            "Ferramenteiro", 
-            "Ferreiro", 
-            "Ficologista", 
-            "Figurante", 
-            "Fil\u00f3logo", 
-            "Fil\u00f3sofo", 
-            "Fiscal", 
-            "Fisiatra", 
-            "Fisiologista", 
-            "Fisioterapeuta", 
-            "Flanelinha", 
-            "Floricultor", 
-            "Florista", 
-            "Folclorista", 
-            "Foniatra", 
-            "Fonoaudi\u00f3logo", 
-            "Forjador", 
-            "Formista", 
-            "Fornecedor", 
-            "Forneiro", 
-            "Fot\u00f3grafo", 
-            "Frade", 
-            "Fraldeiro", 
-            "Frei", 
-            "Freira", 
-            "Frentista", 
-            "Fruteiro", 
-            "Funcion\u00e1rio", 
-            "Fundidor", 
-            "Funileiro", 
-            "F\u00edsico"
-        ], 
-        "G": [
-            "Gaioleiro", 
-            "Galvanizador", 
-            "Gandula", 
-            "Gari", 
-            "Garimpeiro", 
-            "Garrafeiro", 
-            "Gar\u00e7om", 
-            "Gastroenterologista", 
-            "Geleiro", 
-            "General", 
-            "Geneticista", 
-            "Geof\u00edsico", 
-            "Geoqu\u00edmico", 
-            "Gerente", 
-            "Geriatra", 
-            "Gesseiro", 
-            "Gestor", 
-            "Ge\u00f3grafo", 
-            "Ge\u00f3logo", 
-            "Ginecologista", 
-            "Goleiro", 
-            "Governador", 
-            "Governanta", 
-            "Granjeiro", 
-            "Gravador", 
-            "Guaranazeiro", 
-            "Guarda", 
-            "Guardador", 
-            "Guia", 
-            "Guincheiro", 
-            "Guindasteiro"
-        ], 
-        "H": [
-            "Handler", 
-            "Hansen\u00f3logo", 
-            "Hebiatra", 
-            "Hematologista", 
-            "Hidr\u00f3grafo", 
-            "Histologista", 
-            "Historiador", 
-            "Homeopata", 
-            "Horticultor", 
-            "Humorista"
-        ], 
-        "I": [
-            "Iluminador", 
-            "Ilustrador", 
-            "Importador", 
-            "Impressor", 
-            "Imunizador", 
-            "Infectologista", 
-            "Inseminador", 
-            "Inspetor", 
-            "Instalador", 
-            "Instrumentista", 
-            "Instrutor", 
-            "Int\u00e9rprete", 
-            "Investigador"
-        ], 
-        "J": [
-            "Jacarecultor", 
-            "Jardineiro", 
-            "Jateador", 
-            "Joalheiro", 
-            "Jogador", 
-            "Jornaleiro", 
-            "Jornalista", 
-            "Judoca", 
-            "Juiz", 
-            "Jurisconsulto", 
-            "Jurista"
-        ], 
-        "K": [
-            "Kantoku", 
-            "Karateca", 
-            "Kardexista"
-        ], 
-        "L": [
-            "Laboratorista", 
-            "Ladrilheiro", 
-            "Laminador", 
-            "Lanterninha", 
-            "Lapidador", 
-            "Lapid\u00e1rio", 
-            "Laqueador", 
-            "Lavador", 
-            "Lavrador", 
-            "Legista", 
-            "Leiloeiro", 
-            "Leiteiro", 
-            "Leitor", 
-            "Lenhador", 
-            "Lenheiro", 
-            "Letra A ( #a )", 
-            "Letrista", 
-            "Lexic\u00f3grafo", 
-            "Lexic\u00f3logo", 
-            "Limpador", 
-            "Ling\u00fcista", 
-            "Lixador", 
-            "Lixeiro", 
-            "Locador", 
-            "Locutor", 
-            "Lojista", 
-            "Lubrificador", 
-            "Lustrador", 
-            "Lutador", 
-            "Luthier", 
-            "L\u00edder", 
-            "Letra B ( #b )", 
-            "Letra C ( #c )", 
-            "Letra D ( #d )", 
-            "Letra E ( #e )", 
-            "Letra F ( #f )", 
-            "Letra G ( #g )", 
-            "Letra H ( #h )", 
-            "Letra I ( #i )", 
-            "Letra J ( #j )", 
-            "Letra L ( #l )", 
-            "Letra M ( #m )", 
-            "Letra N ( #n )", 
-            "Letra O ( #o )", 
-            "Letra P ( #p )", 
-            "Letra Q ( #q )", 
-            "Letra R ( #r )", 
-            "Letra S ( #s )", 
-            "Letra T ( #t )", 
-            "Letra U ( #u )", 
-            "Letra V ( #v )", 
-            "Letra X ( #x )", 
-            "Letra Z ( #z )", 
-            "Letras, K, W, Y. |( #k )|  Kaiky\u00f4shi"
-        ], 
-        "M": [
-            "Madre", 
-            "Maestro", 
-            "Magarefe", 
-            "Mais... Ocupa\u00e7\u00f5es", 
-            "A", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "B", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "C", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "D", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "E", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "F", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "G", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "H", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "I", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "J", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "K", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "L", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "M", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "N", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "O", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "P", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "Q", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "R", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "S", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "T", 
-            "Mais...Ocupa\u00e7\u00f5es", 
-            "V", 
-            "Major", 
-            "Manequim", 
-            "Manicure", 
-            "Manipulador", 
-            "Manobreiro", 
-            "Manobrista", 
-            "Maquiador", 
-            "Maquinista", 
-            "Maratonista", 
-            "Marceneiro", 
-            "Marechal", 
-            "Margarida", 
-            "Marinheiro", 
-            "Marmorista", 
-            "Marreteiro", 
-            "Marteleiro", 
-            "Massagista", 
-            "Mateiro", 
-            "Matem\u00e1tico", 
-            "Ma\u00eetre", 
-            "Mec\u00e2nico", 
-            "Mensageiro", 
-            "Mergulhador", 
-            "Mestre", 
-            "Meteorologista", 
-            "Microbiologista", 
-            "Mineiro", 
-            "Minerador", 
-            "Ministro", 
-            "Mission\u00e1rio", 
-            "Misturador", 
-            "Moageiro", 
-            "Modelador", 
-            "Modelista", 
-            "Modelo", 
-            "Moendeiro", 
-            "Moldador", 
-            "Moleiro", 
-            "Monge", 
-            "Monitor", 
-            "Monotipista", 
-            "Monsenhor", 
-            "Montador", 
-            "Mordomo", 
-            "Motorista", 
-            "Motorneiro", 
-            "Mototaxista", 
-            "Muse\u00f3logo", 
-            "Music\u00f3logo", 
-            "M\u00e1gico", 
-            "M\u00e9dico", 
-            "M\u00edmico", 
-            "M\u00fasico"
-        ], 
-        "N": [
-            "Narrador", 
-            "Nefrologista", 
-            "Negociante", 
-            "Neurocientista", 
-            "Neurocirurgi\u00e3o", 
-            "Neurologista", 
-            "Neuropediatra", 
-            "Nivelador", 
-            "Not\u00e1rio", 
-            "Novelista", 
-            "Novi\u00e7o", 
-            "Numer\u00f3logo", 
-            "Nutricionista"
-        ], 
-        "O": [
-            "Obstetra", 
-            "Ocean\u00f3grafo", 
-            "Odontologista", 
-            "Odontopediatra", 
-            "Odont\u00f3logo", 
-            "Oficial", 
-            "Oftalmologista", 
-            "Oleiro", 
-            "Olericultor", 
-            "Olheiro", 
-            "Ombudsman", 
-            "Oncologista", 
-            "Operador", 
-            "Orientador", 
-            "Ornamentador", 
-            "Ornit\u00f3logo", 
-            "Orquestrador", 
-            "Ortodontista", 
-            "Ortopedista", 
-            "Ostreicultor", 
-            "Otorrino", 
-            "Otorrinolaringologista", 
-            "Ourives", 
-            "Ovinocultor", 
-            "Oxidador", 
-            "\u00d3ptico"
-        ], 
-        "P": [
-            "Padeiro", 
-            "Paisagista", 
-            "Paleont\u00f3logo", 
-            "Palha\u00e7o", 
-            "Panificador", 
-            "Pantaneiro", 
-            "Paranormal", 
-            "Parapsic\u00f3logo", 
-            "Parteira", 
-            "Pasteleiro", 
-            "Pasteurizador", 
-            "Pastor", 
-            "Patroleiro", 
-            "Patr\u00e3o", 
-            "Pecuarista", 
-            "Pedagogo", 
-            "Pediatra", 
-            "Pedicure", 
-            "Pedreiro", 
-            "Peixeiro", 
-            "Penalista", 
-            "Pequizeiro", 
-            "Perfumista", 
-            "Perfurador", 
-            "Perito", 
-            "Pescador", 
-            "Pesquisador", 
-            "Pe\u00e3o", 
-            "Piloto", 
-            "Pintor", 
-            "Pipoqueiro", 
-            "Pirot\u00e9cnico", 
-            "Piscicultor", 
-            "Pizzaiolo", 
-            "Planejador", 
-            "Pneumologista", 
-            "Podador", 
-            "Poeta", 
-            "Policial", 
-            "Polidor", 
-            "Pont\u00edfice", 
-            "Porteiro", 
-            "Portu\u00e1rio", 
-            "Prefeito", 
-            "Pregoeiro", 
-            "Prensista", 
-            "Preparador", 
-            "Presb\u00edtero", 
-            "Procurador", 
-            "Produtor", 
-            "Professor", 
-            "Programador", 
-            "Projetista", 
-            "Promotor", 
-            "Propriet\u00e1rio", 
-            "Prosador", 
-            "Prospector", 
-            "Provador", 
-            "Psicanalista", 
-            "Psic\u00f3logo", 
-            "Psiquiatra", 
-            "Pugilista"
-        ], 
-        "Q": [
-            "Quebrador", 
-            "Queijeiro", 
-            "Quiromante", 
-            "Quiropraxista", 
-            "Quir\u00f3logo", 
-            "Quitandeiro", 
-            "Qu\u00edmico"
-        ], 
-        "R": [
-            "Rabino", 
-            "Radioestesista", 
-            "Radiofarmac\u00eautico", 
-            "Radiologista", 
-            "Radiotelefonista", 
-            "Radiotelegrafista", 
-            "Raizeiro", 
-            "Rancheiro", 
-            "Ranicultor", 
-            "Recebedor", 
-            "Recenseador", 
-            "Recepcionista", 
-            "Recreador", 
-            "Recuperador", 
-            "Redator", 
-            "Redeiro", 
-            "Refinador", 
-            "Reflorestador", 
-            "Reformador", 
-            "Refratarista", 
-            "Regente", 
-            "Registrador", 
-            "Reitor", 
-            "Relojoeiro", 
-            "Reparador", 
-            "Repositor", 
-            "Representante", 
-            "Reprodutor", 
-            "Rep\u00f3rter", 
-            "Restaurador", 
-            "Retalhista", 
-            "Retificador", 
-            "Retireiro", 
-            "Retocador", 
-            "Retratista", 
-            "Reumatologista", 
-            "Revelador", 
-            "Reverendo", 
-            "Revestidor", 
-            "Revisor", 
-            "Rizicultor", 
-            "Roceiro", 
-            "Romancista", 
-            "Roteirista", 
-            "Roupeiro"
-        ], 
-        "S": [
-            "Sacerdote", 
-            "Sacrist\u00e3o", 
-            "Safrista", 
-            "Saladeiro", 
-            "Salgadeiro", 
-            "Salineiro", 
-            "Saltador", 
-            "Saltimbanco", 
-            "Sambista", 
-            "Sapateiro", 
-            "Sargento", 
-            "Secador", 
-            "Secret\u00e1ria", 
-            "Seguran\u00e7a", 
-            "Selecionador", 
-            "Seleiro", 
-            "Semeador", 
-            "Sementeiro", 
-            "Seminarista", 
-            "Senador", 
-            "Separador", 
-            "Sericultor", 
-            "Serigrafista", 
-            "Seringueiro", 
-            "Serrador", 
-            "Serralheiro", 
-            "Servente", 
-            "Sinaleiro", 
-            "Sitiante", 
-            "Soci\u00f3logo", 
-            "Socorrista", 
-            "Sojicultor", 
-            "Soldado", 
-            "Sondador", 
-            "Sonoplasta", 
-            "Soprador", 
-            "Sorveiro", 
-            "Sorveteiro", 
-            "Subchefe", 
-            "Subcontador", 
-            "Subencarregado", 
-            "Subgerente", 
-            "Suboficial", 
-            "Subprocurador", 
-            "Subtenente", 
-            "Suinocultor", 
-            "Superintendente", 
-            "Superior", 
-            "Supervisor", 
-            "Swami", 
-            "S\u00edndico", 
-            "S\u00f3cioeducador"
-        ], 
-        "T": [
-            "Tabeli\u00e3o", 
-            "Taifeiro", 
-            "Talhador", 
-            "Tanoeiro", 
-            "Tapeceiro", 
-            "Taqueiro", 
-            "Taqu\u00edgrafo", 
-            "Tarefeiro", 
-            "Tar\u00f3logo", 
-            "Taverneiro", 
-            "Taxista", 
-            "Tecedor", 
-            "Tecel\u00e3o", 
-            "Tecn\u00f3logo", 
-            "Telefonista", 
-            "Teleoperador", 
-            "Telhador", 
-            "Telheiro", 
-            "Temperador", 
-            "Tenente", 
-            "Tenista", 
-            "Terapeuta", 
-            "Tesoureiro", 
-            "Te\u00f3logo", 
-            "Tijoleiro", 
-            "Tingidor", 
-            "Tintureiro", 
-            "Tip\u00f3grafo", 
-            "Tirador", 
-            "Tisiologista", 
-            "Tomatecultor", 
-            "Top\u00f3grafo", 
-            "Torneiro", 
-            "Torrador", 
-            "Torrista", 
-            "Tosador", 
-            "Tosquiador", 
-            "Trabalhador", 
-            "Tradutor", 
-            "Transformador", 
-            "Tratador", 
-            "Tratorista", 
-            "Traumatologista", 
-            "Tra\u00e7ador", 
-            "Trefilador", 
-            "Treinador", 
-            "Triticultor", 
-            "Trocador", 
-            "Tropeiro", 
-            "Turism\u00f3logo", 
-            "Tuxaua", 
-            "T\u00e9cnico"
-        ], 
-        "U": [
-            "Uf\u00f3logo", 
-            "Upasaka", 
-            "Upasika", 
-            "Urbanista", 
-            "Urologista"
-        ], 
-        "V": [
-            "Vacinador", 
-            "Vagalume", 
-            "Vaqueiro", 
-            "Varredor", 
-            "Vassoureiro", 
-            "Vazador", 
-            "Vedete", 
-            "Vendedor", 
-            "Ventr\u00edloquo", 
-            "Vereador", 
-            "Veterin\u00e1rio", 
-            "Vidente", 
-            "Vidraceiro", 
-            "Vidreiro", 
-            "Vigia", 
-            "Vigilante", 
-            "Vig\u00e1rio", 
-            "Vimeiro", 
-            "Vinagreiro", 
-            "Vinhateiro", 
-            "Vinicultor", 
-            "Virador", 
-            "Visitador", 
-            "Vistoriador", 
-            "Viticultor", 
-            "Vitralista", 
-            "Vitrinista", 
-            "Viveirista", 
-            "Vocabularista"
-        ], 
-        "W": [
-            "W?? |( #y )| Ywyr\u00e1j\u00e1"
-        ], 
-        "X": [
-            "Xaropeira", 
-            "Xaropeiro", 
-            "Xeram\u00f5e", 
-            "Xondaria", 
-            "Xond\u00e1ro"
-        ], 
-        "Z": [
-            "Zagueiro", 
-            "Zelador", 
-            "Zenji", 
-            "Zincador", 
-            "Zoologista", 
-            "Zootecnista", 
-            "Zo\u00f3logo"
+            "Cartomante"
         ]
     }, 
     "PROGRAMA DE TV": {
         "A": [
             "Al\u00f4 Christina", 
             "Amigos", 
-            "Astros"
+            "Astros", 
+            "A\u00e7\u00e3o"
         ], 
         "B": [
             "Balan\u00e7o Geral", 
             "Bambulu\u00e1", 
-            "Brothers"
+            "Brothers", 
+            "Bambulu\u00e1"
         ], 
         "C": [
             "Charme", 
             "Chaves", 
             "Clipmania", 
-            "Coruj\u00e3o"
+            "Coruj\u00e3o", 
+            "Charme"
         ], 
         "D": [
             "Degrassi", 
             "Descontrole", 
-            "Domingugu"
+            "Domingugu", 
+            "Dear (Sim", 
+            "Degrassi"
         ], 
         "E": [
             "Encrenca", 
             "Esquenta!", 
-            "Estrelas"
+            "Estrelas", 
+            "Ecopr\u00e1tico"
         ], 
         "F": [
             "Fantasia", 
             "Fant\u00e1stico", 
-            "Futurando"
+            "Futurando", 
+            "Fantasia"
         ], 
         "G": [
             "Gentalha", 
             "Globo Rural", 
-            "Gordoshop"
+            "Gordoshop", 
+            "Gentalha"
         ], 
         "H": [
             "Hebe", 
             "Hipertens\u00e3o", 
-            "Hora H"
+            "Hora H", 
+            "Hebe"
         ], 
         "I": [
             "Intercine", 
@@ -6917,151 +6036,77 @@ var stopCheats = {
         "J": [
             "Jogo Aberto", 
             "Jornal Hoje", 
-            "Jovens Tardes"
+            "Jovens Tardes", 
+            "Jogo Aberto"
         ], 
         "K": [
+            "Karku (Kark\u00fa)", 
             "Karku (Kark\u00fa)"
         ], 
         "L": [
             "Legend\u00e1rios", 
             "Le\u00e3o Livre", 
-            "Login"
+            "Login", 
+            "Legend\u00e1rios"
         ], 
         "M": [
             "Megatom", 
             "Mixtura\u00e7\u00e3o", 
-            "Muvuca"
+            "Muvuca", 
+            "Mixtura\u00e7\u00e3o"
         ], 
         "N": [
             "NBlogs", 
             "Na\u00e7\u00e3o", 
-            "Note e Anote"
+            "Note e Anote", 
+            "Na\u00e7\u00e3o"
         ], 
         "O": [
             "Olha Voc\u00ea", 
             "Oradukapeta", 
-            "Os Cupins"
+            "Os Cupins", 
+            "Olha Voc\u00ea"
         ], 
         "P": [
             "Perfil", 
             "Popstars", 
-            "Provoca\u00e7\u00f5es"
+            "Provoca\u00e7\u00f5es", 
+            "Perfil"
         ], 
         "Q": [
             "Qual \u00e9 a M\u00fasica?", 
             "Quarta Total", 
-            "Quiz MTV"
+            "Quiz MTV", 
+            "Querida)", 
+            "Quarta Total"
         ], 
         "R": [
             "Radar", 
             "Ressoar", 
             "Rockgol", 
-            "Roda a Roda"
+            "Roda a Roda", 
+            "Radar"
         ], 
         "S": [
             "Satiricom", 
             "Stargame", 
-            "Super Pop"
+            "Super Pop", 
+            "Satiricom"
         ], 
         "T": [
             "Telecurso", 
             "Tenta\u00e7\u00e3o", 
-            "Trolal\u00e1"
+            "Trolal\u00e1", 
+            "Tenta\u00e7\u00e3o"
         ], 
         "U": [
             "Ultranot\u00edcias", 
             "Uni Duni T\u00ea", 
+            "U\u00e1 U\u00e1", 
             "U\u00e1 U\u00e1"
         ], 
         "V": [
             "Vestibulando", 
-            "Vitrine", 
-            "Vrum"
-        ], 
-        "W": [
-            "Wiseguy (O Homem da M\u00e1fia)"
-        ], 
-        "X": [
-            "X-Tudo", 
-            "Xaveco", 
-            "Xou da Xuxa"
-        ], 
-        "Y": [
-            "Yes, Dear (Sim, Querida)"
-        ], 
-        "Z": [
-            "Zapping", 
-            "Zip Zap", 
-            "Zuzubal\u00e2ndia"
-        ]
-    }, 
-    "PROGRAMA DE TV (TELEVISAO)": {
-        "A": [
-            "A\u00e7\u00e3o"
-        ], 
-        "B": [
-            "Bambulu\u00e1"
-        ], 
-        "C": [
-            "Charme"
-        ], 
-        "D": [
-            "Dear (Sim", 
-            "Degrassi"
-        ], 
-        "E": [
-            "Ecopr\u00e1tico"
-        ], 
-        "F": [
-            "Fantasia"
-        ], 
-        "G": [
-            "Gentalha"
-        ], 
-        "H": [
-            "Hebe"
-        ], 
-        "I": [
-            "\u00cddolos"
-        ], 
-        "J": [
-            "Jogo Aberto"
-        ], 
-        "K": [
-            "Karku (Kark\u00fa)"
-        ], 
-        "L": [
-            "Legend\u00e1rios"
-        ], 
-        "M": [
-            "Mixtura\u00e7\u00e3o"
-        ], 
-        "N": [
-            "Na\u00e7\u00e3o"
-        ], 
-        "O": [
-            "Olha Voc\u00ea"
-        ], 
-        "P": [
-            "Perfil"
-        ], 
-        "Q": [
-            "Querida)", 
-            "Quarta Total"
-        ], 
-        "R": [
-            "Radar"
-        ], 
-        "S": [
-            "Satiricom"
-        ], 
-        "T": [
-            "Tenta\u00e7\u00e3o"
-        ], 
-        "U": [
-            "U\u00e1 U\u00e1"
-        ], 
-        "V": [
             "Vitrine"
         ], 
         "W": [
@@ -7165,55 +6210,7 @@ var stopCheats = {
         ], 
         "P": [
             "Papillon", 
-            "Pastor Alem\u00e3o (Capa Preta)", 
-            "pastor alem\u00e3o capa preta", 
-            "pastor australiano", 
-            "pastor belga", 
-            "Pastor Branco Su\u00ed\u00e7o (Pastor Canadense)", 
-            "pastor branco su\u00ed\u00e7o pastor canadense", 
-            "pastor de shetland", 
-            "Pastor Maremano Abruz\u00eas", 
-            "pembroke", 
-            "pequin\u00eas", 
-            "pinscher", 
-            "pit bull", 
-            "Pit Bull (American Pit Bull Terrier)", 
-            "pointer", 
-            "Pointer Ingl\u00eas", 
-            "poodle", 
-            "pug"
-        ], 
-        "R": [
-            "rottweiler"
-        ], 
-        "S": [
-            "samoieda", 
-            "s\u00e3o bernardo", 
-            "schnauzer", 
-            "Schnauzer Miniatura", 
-            "Setter Irland\u00eas", 
-            "setter-irlandes", 
-            "Shar Pei", 
-            "sheepdog", 
-            "shiba inu", 
-            "shih tzu", 
-            "spitz japones", 
-            "Spitz Japon\u00eas", 
-            "Staffordshire Bull Terrier"
-        ], 
-        "T": [
-            "Terra-Nova"
-        ], 
-        "W": [
-            "weimaraner", 
-            "Welsh Corgi Cardigan", 
-            "Welsh Corgi Pembroke", 
-            "West Highland White Terrier", 
-            "whippet"
-        ], 
-        "Y": [
-            "yorkshire", 
-            "Yorkshire Terrier"
+            "Pastor Alem\u00e3o (Capa Preta)"
         ]
     }, 
     "REMEDIO": {
@@ -7587,716 +6584,7 @@ var stopCheats = {
             "Bordertown", 
             "Bosch", 
             "Boss", 
-            "Breaking Bad", 
-            "Britannia", 
-            "Broad City", 
-            "Broadchurch", 
-            "Brooklyn Nine-Nine", 
-            "Brothers & Sisters", 
-            "Buffy the Vampire Slayer", 
-            "Burn Notice"
-        ], 
-        "C": [
-            "Californication", 
-            "Call the Midwife", 
-            "Camping", 
-            "Cardinal", 
-            "Castle Rock", 
-            "Chambers", 
-            "Chance", 
-            "Channel Zero", 
-            "Charmed (1998)", 
-            "Charmed (2018)", 
-            "Chaves", 
-            "Chesapeake Shores", 
-            "Chewing Gum", 
-            "Chicago Fire", 
-            "Chicago Justice", 
-            "Chicago Med", 
-            "Chicago P.D.", 
-            "Chilling Adventures of Sabrina", 
-            "Chuck", 
-            "Cine Holli\u00fady", 
-            "Claws", 
-            "Cobra Kai", 
-            "Code Black", 
-            "Community", 
-            "Condor", 
-            "Corporate", 
-            "Counterpart", 
-            "Crazy Ex-Girlfriend", 
-            "Crime Diaries: The Candidate", 
-            "Criminal Minds", 
-            "Criminal Minds: Beyond Borders", 
-            "Criminal Minds: Suspect Behavior"
-        ], 
-        "D": [
-            "Da Vinci's Demons", 
-            "Dallas", 
-            "Damages", 
-            "Damnation", 
-            "Dante\u2019s Cove", 
-            "Dark", 
-            "Dark Matter", 
-            "Dark Net", 
-            "DC's Legends of Tomorrow", 
-            "Dead to Me", 
-            "Deadwood", 
-            "Dear White People", 
-            "Deep Water", 
-            "Defiance", 
-            "Designated Survivor", 
-            "Desperate Housewives", 
-            "Devious Maids", 
-            "Dexter", 
-            "Dietland", 
-            "Dinosaurs", 
-            "Dirk Gently\u2019s Holistic Detective Agency", 
-            "Dirty Sexy Money", 
-            "Doctor Foster", 
-            "Doctor Who", 
-            "Documentary Now", 
-            "Doom Patrol", 
-            "Doubt", 
-            "Downton Abbey", 
-            "Drop Dead Diva", 
-            "Dynasty"
-        ], 
-        "E": [
-            "Easy", 
-            "Elementary", 
-            "\u00c9lite", 
-            "Empire", 
-            "Endeavour", 
-            "Entourage", 
-            "Episodes", 
-            "Euphoria", 
-            "Extinct", 
-            "Eyewitness"
-        ], 
-        "F": [
-            "Falling Skies", 
-            "Famous In Love", 
-            "Fargo", 
-            "FBI", 
-            "Fear The Walking Dead", 
-            "Feud", 
-            "Firefly", 
-            "Fleabag", 
-            "Flesh and Bone", 
-            "Flinch", 
-            "For the People", 
-            "Fresh Off the Boat", 
-            "Friday Night Lights", 
-            "Friends", 
-            "Fringe", 
-            "Fuller House", 
-            "Future Man"
-        ], 
-        "G": [
-            "Galavant", 
-            "Game of Thrones", 
-            "Genius", 
-            "Ghost Wars", 
-            "Ghoul", 
-            "Gilmore Girls", 
-            "Girls", 
-            "Glitch", 
-            "GLOW", 
-            "Godless", 
-            "Golden Life", 
-            "Gone", 
-            "Good Behavior", 
-            "Good Trouble", 
-            "Gotham", 
-            "Gracepoint", 
-            "Grand Hotel", 
-            "Grantchester", 
-            "Greenleaf", 
-            "Grey's Anatomy", 
-            "Grimm", 
-            "Gunpowder", 
-            "Gypsy"
-        ], 
-        "H": [
-            "Halt and Catch Fire", 
-            "Hammer House of Horror", 
-            "Hanna", 
-            "Hannibal", 
-            "Happy Valley", 
-            "Happy!", 
-            "Hard Sun", 
-            "Harper\u2019s Island", 
-            "Hawaii Five-0", 
-            "Hell on Wheels", 
-            "Hemlock Grove", 
-            "Here and Now", 
-            "High Maintenance", 
-            "Hinterland", 
-            "Home Fires", 
-            "Homecoming", 
-            "Homeland", 
-            "Hotel Beau Sejour", 
-            "House MD", 
-            "House of Cards", 
-            "How I Met Your Mother", 
-            "How to Get Away with Murder", 
-            "How to Make it in America", 
-            "Howard's End", 
-            "Huge in France", 
-            "Humans"
-        ], 
-        "I": [
-            "I Think You Should Leave with Tim Robinson", 
-            "I'm Sorry", 
-            "If I Hadn't Met You", 
-            "Impuros", 
-            "In the Dark", 
-            "Insatiable", 
-            "Insecure", 
-            "Into the Badlands", 
-            "It's Always Sunny in Philadelphia", 
-            "It's Bruno!", 
-            "iZombie"
-        ], 
-        "J": [
-            "Jailbirds", 
-            "Jane the Virgin", 
-            "Jordskott", 
-            "Justified"
-        ], 
-        "K": [
-            "Kevin (Probably) Saves the World", 
-            "Kidding", 
-            "Killing Eve", 
-            "Killjoys", 
-            "Kingdom", 
-            "Kingdom (2019)", 
-            "Knightfall", 
-            "Krypton"
-        ], 
-        "L": [
-            "L.A.'s Finest", 
-            "La Casa De Las Flores", 
-            "La Casa de Papel", 
-            "La Porta Rossa", 
-            "LA to Vegas", 
-            "Law & Order", 
-            "Law & Order: Special Victims Unit", 
-            "Law & Order: True Crime", 
-            "Le Bureau des L\u00e9gendes", 
-            "Le Chalet", 
-            "Legacies", 
-            "Legion", 
-            "Les Revenants", 
-            "Lethal Weapon", 
-            "Life", 
-            "Life in Pieces", 
-            "Line of Duty", 
-            "Longmire", 
-            "Looking", 
-            "Lore", 
-            "Loudermilk", 
-            "Louie", 
-            "Lucifer", 
-            "Luther"
-        ], 
-        "M": [
-            "MacGyver", 
-            "Mad Men", 
-            "Madam Secretary", 
-            "Magnum P.I.", 
-            "Major Crimes", 
-            "Making a Murderer", 
-            "Malcolm in the Middle", 
-            "Manhunt: Unabomber", 
-            "Manifest", 
-            "Married with Children", 
-            "Marseille", 
-            "Marvel's Agent Carter", 
-            "Marvel's Agents of S.H.I.E.L.D.", 
-            "Marvel's Daredevil", 
-            "Marvel's Inhumans", 
-            "Marvel's Iron Fist", 
-            "Marvel's Jessica Jones", 
-            "Marvel's Luke Cage", 
-            "Marvel's Runaways", 
-            "Marvel's The Defenders", 
-            "Marvel's The Punisher", 
-            "Marvel\u2019s Cloak & Dagger", 
-            "Mary Kills People", 
-            "Masters of Horror", 
-            "Masters of Sex", 
-            "Mayans M.C.", 
-            "McMafia", 
-            "Medici: Masters of Florence", 
-            "Medium", 
-            "Mercy Street", 
-            "Midnight Texas", 
-            "Mindhunter", 
-            "Misfits", 
-            "Missions", 
-            "Modern Family", 
-            "Modus", 
-            "Mom", 
-            "Monk", 
-            "Moone Boy", 
-            "Motive", 
-            "Mozart in the Jungle", 
-            "Mr. Mercedes", 
-            "Mr. Robot", 
-            "Murder In The First", 
-            "Murdoch Mysteries", 
-            "My Brilliant Friend"
-        ], 
-        "N": [
-            "Narcos", 
-            "Narcos: Mexico", 
-            "Nashville", 
-            "Night Gallery", 
-            "Nightflyers", 
-            "Nightmares and Dreamscapes", 
-            "Nip", 
-            "Tuck", 
-            "No Good Nick", 
-            "Non Uccidere", 
-            "Norsemen", 
-            "Northern Rescue", 
-            "NOS4A2", 
-            "Now Apocalypse"
-        ], 
-        "O": [
-            "O Mecanismo", 
-            "O Teatro dos Contos de Fada", 
-            "Okkupert", 
-            "On My Block", 
-            "Once Upon A Time", 
-            "Orange Is The New Black", 
-            "Origin", 
-            "Orphan Black", 
-            "Osmosis", 
-            "Our Planet", 
-            "Outcast", 
-            "Outlander", 
-            "Ozark"
-        ], 
-        "P": [
-            "Parenthood", 
-            "Parfum", 
-            "Parks And Recreation", 
-            "Patrick Melrose", 
-            "Peaky Blinders", 
-            "Pearson", 
-            "Penny Dreadful", 
-            "Pennyworth", 
-            "Person of Interest", 
-            "Philip K. Dick\u2019s Electric Dreams", 
-            "Playing House", 
-            "Please Like Me", 
-            "Pose", 
-            "Power", 
-            "Powers", 
-            "Preacher", 
-            "Pretty Little Liars", 
-            "Primeval", 
-            "Prison Break", 
-            "Private Eyes", 
-            "Project Blue Book", 
-            "Psi", 
-            "Psych", 
-            "Psychoville", 
-            "Public Enemy", 
-            "Pushing Daisies"
-        ], 
-        "Q": [
-            "Quantico", 
-            "Queen of the South", 
-            "Queen Sugar", 
-            "Queer as Folk UK", 
-            "Queer as Folk US", 
-            "Quicksand"
-        ], 
-        "R": [
-            "Raven's Home", 
-            "Ray Donovan", 
-            "Real Humans", 
-            "Rectify", 
-            "Red Widow", 
-            "Reign", 
-            "Rellik", 
-            "Requiem", 
-            "Rescue Me", 
-            "Retired at 35", 
-            "Revenge", 
-            "Revolution", 
-            "Ripper Street", 
-            "River", 
-            "Riverdale", 
-            "Rizzoli and Isles", 
-            "Roman Empire", 
-            "Rookie Blue", 
-            "Room 104", 
-            "Roswell", 
-            "Royal Pains", 
-            "Rules of Engagement", 
-            "Rush Hour", 
-            "Russian Doll"
-        ], 
-        "S": [
-            "S.W.A.T.", 
-            "Safe", 
-            "Salvation", 
-            "Sanctuary", 
-            "Santa Clarita Diet", 
-            "Satisfaction", 
-            "Saturday Night Live", 
-            "Scandal", 
-            "Scorpion", 
-            "Scream: The TV Series", 
-            "Scrubs", 
-            "Seal Team", 
-            "Second Chance", 
-            "Secrets and Lies", 
-            "Seinfeld", 
-            "Sense8", 
-            "Seven Seconds", 
-            "Sex and the City", 
-            "Shades of Blue", 
-            "Shadows", 
-            "Shameless (UK)", 
-            "Shameless (US)", 
-            "Sharp Objects", 
-            "Sharpe", 
-            "Sherlock", 
-            "Shetland", 
-            "She\u2019s Gotta Have It", 
-            "Shit My Dad Says", 
-            "Shooter", 
-            "Shrink", 
-            "Sideswiped", 
-            "Silicon Valley", 
-            "Single Parents", 
-            "Siren", 
-            "Six", 
-            "Six Feet Under", 
-            "Skam", 
-            "Skins (UK)", 
-            "Skins (US)", 
-            "Slasher", 
-            "Smallville", 
-            "Smash", 
-            "SMILF", 
-            "Sneaky Pete", 
-            "Sob Press\u00e3o", 
-            "Som e F\u00faria", 
-            "Sons of Anarchy", 
-            "Sons of Tucson", 
-            "South of Hell", 
-            "South of Nowhere", 
-            "Southland", 
-            "Spaced", 
-            "Spartacus", 
-            "Special", 
-            "Spectreman", 
-            "Speechless", 
-            "Springfloden", 
-            "Stan Against Evil", 
-            "Stan Lee's Lucky Man", 
-            "Star", 
-            "Star Trek", 
-            "Star Trek: Deep Space Nine", 
-            "Star Trek: Discovery", 
-            "Star Trek: Enterprise", 
-            "Star-Crossed", 
-            "Stargate Origins", 
-            "Stargate SG-1", 
-            "Stargate Universe", 
-            "Stargate: Atlantis", 
-            "StartUp", 
-            "State of Georgia", 
-            "Station 19", 
-            "Steven Seagal: Lawman", 
-            "Sthlm Rekviem", 
-            "Stitchers", 
-            "Strange Angel", 
-            "Stranger Things", 
-            "Strike Back", 
-            "Suburgatory", 
-            "Suburra", 
-            "Suits", 
-            "Super Fun Night", 
-            "Supergirl", 
-            "Supernatural", 
-            "Superstition", 
-            "Superstore", 
-            "Surface", 
-            "Survivors", 
-            "Swamp Thing"
-        ], 
-        "T": [
-            "Tabula Rasa", 
-            "Tales from the Crypt", 
-            "Teen Wolf", 
-            "Telenovela", 
-            "Tell Me a Story", 
-            "Ten Days in the Valley", 
-            "Terra Nova", 
-            "That 70\u2032s Show", 
-            "The 100", 
-            "The 4400", 
-            "The Act", 
-            "The Addams Family", 
-            "The Affair", 
-            "The Alienist", 
-            "The Americans", 
-            "The Big Bang Theory", 
-            "The Big C", 
-            "The Blacklist", 
-            "The Blacklist: Redemption", 
-            "The Bold Type", 
-            "The Border", 
-            "The Borgias", 
-            "The Boys", 
-            "The Brave", 
-            "The Bridge", 
-            "The Cape", 
-            "The Carrie Diaries", 
-            "The Catch", 
-            "The Chi", 
-            "The Chicago Code", 
-            "The Class", 
-            "The Client List", 
-            "The Closer", 
-            "The Confession", 
-            "The Cool Kids", 
-            "The Crazy Ones", 
-            "The Crossing", 
-            "The Crown", 
-            "The Detour", 
-            "The Deuce", 
-            "The Doctor Blake Mysteries", 
-            "The Event", 
-            "The Exorcist", 
-            "The Expanse", 
-            "The Fall", 
-            "The Family", 
-            "The Flash", 
-            "The Following", 
-            "The Fosters", 
-            "The Frankenstein Chronicles", 
-            "The Gates", 
-            "The Get Down", 
-            "The Gifted", 
-            "The Girlfriend Experience", 
-            "The Glades", 
-            "The Goldbergs", 
-            "The Golden Girls", 
-            "The Good Doctor", 
-            "The Good Fight", 
-            "The Good Place", 
-            "The Good Wife", 
-            "The Grand Tour", 
-            "The Grinder", 
-            "The Handmaid's Tale", 
-            "The Hard Times of RJ Berger", 
-            "The Haunting of Hill House", 
-            "The Inbetweeners", 
-            "The Innocents", 
-            "The IT Crowd", 
-            "The Killing", 
-            "The Knick", 
-            "The Kominsky Method", 
-            "The L Word", 
-            "The Last Man On Earth", 
-            "The Last Panthers", 
-            "The Last Ship", 
-            "The Leftovers", 
-            "The Librarians", 
-            "The Listener", 
-            "The Lying Game", 
-            "The Magicians", 
-            "The Man in the High Castle", 
-            "The Marvelous Mrs. Maisel", 
-            "The Mentalist", 
-            "The Mick", 
-            "The Middle", 
-            "The Mill", 
-            "The Mindy Project", 
-            "The Missing", 
-            "The Muppets", 
-            "The Musketeers", 
-            "The Mysteries of Laura", 
-            "The Neighborhood", 
-            "The New Adventures of Old Christine", 
-            "The New Normal", 
-            "The Newsroom", 
-            "The Night Shift", 
-            "The Nine Lives of Chloe King", 
-            "The OA", 
-            "The Office (UK)", 
-            "The Office (US)", 
-            "The Order", 
-            "The Originals", 
-            "The Orville", 
-            "The Paradise", 
-            "The Passage", 
-            "The Path", 
-            "The Perfectionists", 
-            "The Protector (2011)", 
-            "The Protector (2018)", 
-            "The Purge", 
-            "The Rain", 
-            "The Ranch", 
-            "The Real O'Neals", 
-            "The Resident", 
-            "The Riches", 
-            "The River", 
-            "The Romanoffs", 
-            "The Romeo Section", 
-            "The Rookie", 
-            "The Royals", 
-            "The Sarah Jane Adventures", 
-            "The Secret Circle", 
-            "The Shannara Chronicles", 
-            "The Shield", 
-            "The Sinner", 
-            "The Society", 
-            "The Sopranos", 
-            "The Strain", 
-            "The Terror", 
-            "The Thin Blue Line", 
-            "The Tomorrow People", 
-            "The Tudors", 
-            "The Tunnel", 
-            "The Twilight Zone (1959)", 
-            "The Twilight Zone (2002)", 
-            "The Twilight Zone (2019)", 
-            "The Umbrella Academy", 
-            "The Vampire Diaries", 
-            "The Village", 
-            "The Walking Dead", 
-            "The West Wing", 
-            "The Whole Truth", 
-            "The Widow", 
-            "The Wire", 
-            "The X-Files", 
-            "The Yard", 
-            "The Young Indiana Jones Chronicles", 
-            "The Young Pope", 
-            "Thicker Than Water", 
-            "This Close", 
-            "This Is Us", 
-            "Those Who Can't", 
-            "Those Who Kill", 
-            "Three Rivers", 
-            "Threshold", 
-            "Through the Wormhole", 
-            "Tidelands", 
-            "Tijuana", 
-            "Time After Time", 
-            "Timeless", 
-            "Tin Star", 
-            "Titans", 
-            "Todd and the Book of Pure Evil", 
-            "Togetherness", 
-            "Tom Clancy's Jack Ryan", 
-            "Toma L\u00e1 D\u00e1 C\u00e1", 
-            "Top of the Lake", 
-            "Torchwood", 
-            "Touch", 
-            "Traffic Light", 
-            "Transparent", 
-            "Trapped", 
-            "Trauma", 
-            "Travelers", 
-            "Treme", 
-            "Trial & Error", 
-            "Troy: Fall of a City", 
-            "True Blood", 
-            "True Detective", 
-            "Trust", 
-            "TURN", 
-            "Turn Up Charlie", 
-            "Twin Peaks", 
-            "Two and a Half Men"
-        ], 
-        "U": [
-            "UFO", 
-            "Ugly Betty", 
-            "Unbreakable Kimmy Schmidt", 
-            "Undateable", 
-            "Under the Dome", 
-            "Undercover", 
-            "Underground", 
-            "Unforgettable", 
-            "Unforgotten", 
-            "United States of Tara", 
-            "Unnatural History", 
-            "UnREAL", 
-            "Unsolved", 
-            "Up All Night"
-        ], 
-        "V": [
-            "V", 
-            "V: A Batalha Final", 
-            "Valor", 
-            "Van Helsing", 
-            "Veep", 
-            "Vera", 
-            "Veronica Mars", 
-            "Versailles", 
-            "Vicious", 
-            "Victoria", 
-            "Vikings", 
-            "Vinyl", 
-            "Viva la Bam"
-        ], 
-        "W": [
-            "Wallander", 
-            "Wanted", 
-            "Warrior", 
-            "Wayward Pines", 
-            "Weeds", 
-            "Weird City", 
-            "Welcome to Sweden", 
-            "Wentworth", 
-            "Westworld", 
-            "What About Brian", 
-            "What", 
-            "If", 
-            "White Collar", 
-            "White Gold", 
-            "Whitechapel", 
-            "Who Is America?", 
-            "Wicked City", 
-            "Wilfred", 
-            "Will & Grace", 
-            "Wisdom of the Crowd", 
-            "Witches of East End", 
-            "Without a Trace", 
-            "Wolf Creek", 
-            "Wonderland", 
-            "Workaholics", 
-            "Worst Week", 
-            "Wrecked", 
-            "Wynonna Earp"
-        ], 
-        "X": [
-            "Xena: A Princesa Guerreira"
-        ], 
-        "Y": [
-            "Years and Years", 
-            "Yellowstone", 
-            "Yonderland", 
-            "You", 
-            "You're the Worst", 
-            "Young & Hungry", 
-            "Young Sheldon", 
-            "Younger"
-        ], 
-        "Z": [
-            "Z Nation", 
-            "Zoo"
+            "Breaking Bad"
         ]
     }, 
     "SOBRENOME": {
@@ -8461,105 +6749,131 @@ var stopCheats = {
     }, 
     "TIME": {
         "A": [
+            "Arsenal", 
             "Asa", 
             "Arsenal"
         ], 
         "B": [
+            "Barcelona", 
             "Bara\u00fanas", 
             "Barcelona"
         ], 
         "C": [
+            "Corinthians", 
             "Cruz Azul", 
             "Corinthians"
         ], 
         "D": [
+            "D\u00ednamo", 
             "Democrata", 
             "D\u00ednamo"
         ], 
         "E": [
+            "Estudiante", 
             "Empoli", 
             "Estudiante"
         ], 
         "F": [
             "Fiorentina", 
+            "Fiorentina", 
             "Fiorentina"
         ], 
         "G": [
+            "Genoa", 
             "Gama", 
             "Genoa"
         ], 
         "H": [
+            "Hurac\u00e1n", 
             "Huracan", 
             "Hurac\u00e1n"
         ], 
         "I": [
+            "Internazionale", 
             "Ipatinga", 
             "Ibis", 
             "Internazionale"
         ], 
         "J": [
+            "Juventus", 
             "Joinville", 
             "Juventus"
         ], 
         "K": [
+            "Kashima Antlers", 
             "Kashima Antlers"
         ], 
         "L": [
+            "Lazio", 
             "Leiria", 
             "Lazio"
         ], 
         "M": [
             "Milan", 
-            "Maca\u00e9"
+            "Maca\u00e9", 
+            "Milan"
         ], 
         "N": [
+            "Nacional", 
             "Noroeste", 
             "Nacional"
         ], 
         "O": [
+            "Once Caldas", 
             "Oeste", 
             "Once Caldas"
         ], 
         "P": [
             "Porto", 
-            "Paulista"
+            "Paulista", 
+            "Porto"
         ], 
         "Q": [
+            "Quer\u00e9taro", 
             "Queimadense", 
             "Quer\u00e9taro"
         ], 
         "R": [
+            "Real Madrid", 
             "Remo", 
             "Real Madrid"
         ], 
         "S": [
             "Sevilla", 
-            "Sousa"
+            "Sousa", 
+            "Sevilla"
         ], 
         "T": [
+            "Tijuana", 
             "Toledo", 
             "Treze", 
             "Tijuana"
         ], 
         "U": [
+            "Universitario", 
             "Udinese", 
             "Universitario"
         ], 
         "V": [
             "Verona", 
-            "Vasco"
+            "Vasco", 
+            "Verona"
         ], 
         "W": [
+            "Watford", 
             "Watford"
         ], 
         "X": [
             "Xerez", 
+            "Xerez", 
             "Xerez"
         ], 
         "Y": [
+            "Yokohama", 
             "Yokohama"
         ], 
         "Z": [
+            "Zamora.", 
             "Zenit", 
             "Zamora."
         ]
@@ -8642,86 +6956,6 @@ var stopCheats = {
         ], 
         "Z": [
             "Zumbi."
-        ]
-    }, 
-    "TIME ESPORTIVO": {
-        "A": [
-            "Arsenal"
-        ], 
-        "B": [
-            "Barcelona"
-        ], 
-        "C": [
-            "Corinthians"
-        ], 
-        "D": [
-            "D\u00ednamo"
-        ], 
-        "E": [
-            "Estudiante"
-        ], 
-        "F": [
-            "Fiorentina"
-        ], 
-        "G": [
-            "Genoa"
-        ], 
-        "H": [
-            "Hurac\u00e1n"
-        ], 
-        "I": [
-            "Internazionale"
-        ], 
-        "J": [
-            "Juventus"
-        ], 
-        "K": [
-            "Kashima Antlers"
-        ], 
-        "L": [
-            "Lazio"
-        ], 
-        "M": [
-            "Milan"
-        ], 
-        "N": [
-            "Nacional"
-        ], 
-        "O": [
-            "Once Caldas"
-        ], 
-        "P": [
-            "Porto"
-        ], 
-        "Q": [
-            "Quer\u00e9taro"
-        ], 
-        "R": [
-            "Real Madrid"
-        ], 
-        "S": [
-            "Sevilla"
-        ], 
-        "T": [
-            "Tijuana"
-        ], 
-        "U": [
-            "Universitario"
-        ], 
-        "V": [
-            "Verona"
-        ], 
-        "W": [
-            "Watford"
-        ], 
-        "X": [
-            "Xerez"
-        ], 
-        "Y": [
-            "Yokohama"
-        ], 
-        "Z": [
-            "Zamora."
         ]
     }, 
     "VERBO": {
