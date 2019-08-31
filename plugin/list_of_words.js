@@ -6747,137 +6747,6 @@ var stopCheats = {
             "Zorro"
         ]
     }, 
-    "TIME": {
-        "A": [
-            "Arsenal", 
-            "Asa", 
-            "Arsenal"
-        ], 
-        "B": [
-            "Barcelona", 
-            "Bara\u00fanas", 
-            "Barcelona"
-        ], 
-        "C": [
-            "Corinthians", 
-            "Cruz Azul", 
-            "Corinthians"
-        ], 
-        "D": [
-            "D\u00ednamo", 
-            "Democrata", 
-            "D\u00ednamo"
-        ], 
-        "E": [
-            "Estudiante", 
-            "Empoli", 
-            "Estudiante"
-        ], 
-        "F": [
-            "Fiorentina", 
-            "Fiorentina", 
-            "Fiorentina"
-        ], 
-        "G": [
-            "Genoa", 
-            "Gama", 
-            "Genoa"
-        ], 
-        "H": [
-            "Hurac\u00e1n", 
-            "Huracan", 
-            "Hurac\u00e1n"
-        ], 
-        "I": [
-            "Internazionale", 
-            "Ipatinga", 
-            "Ibis", 
-            "Internazionale"
-        ], 
-        "J": [
-            "Juventus", 
-            "Joinville", 
-            "Juventus"
-        ], 
-        "K": [
-            "Kashima Antlers", 
-            "Kashima Antlers"
-        ], 
-        "L": [
-            "Lazio", 
-            "Leiria", 
-            "Lazio"
-        ], 
-        "M": [
-            "Milan", 
-            "Maca\u00e9", 
-            "Milan"
-        ], 
-        "N": [
-            "Nacional", 
-            "Noroeste", 
-            "Nacional"
-        ], 
-        "O": [
-            "Once Caldas", 
-            "Oeste", 
-            "Once Caldas"
-        ], 
-        "P": [
-            "Porto", 
-            "Paulista", 
-            "Porto"
-        ], 
-        "Q": [
-            "Quer\u00e9taro", 
-            "Queimadense", 
-            "Quer\u00e9taro"
-        ], 
-        "R": [
-            "Real Madrid", 
-            "Remo", 
-            "Real Madrid"
-        ], 
-        "S": [
-            "Sevilla", 
-            "Sousa", 
-            "Sevilla"
-        ], 
-        "T": [
-            "Tijuana", 
-            "Toledo", 
-            "Treze", 
-            "Tijuana"
-        ], 
-        "U": [
-            "Universitario", 
-            "Udinese", 
-            "Universitario"
-        ], 
-        "V": [
-            "Verona", 
-            "Vasco", 
-            "Verona"
-        ], 
-        "W": [
-            "Watford", 
-            "Watford"
-        ], 
-        "X": [
-            "Xerez", 
-            "Xerez", 
-            "Xerez"
-        ], 
-        "Y": [
-            "Yokohama", 
-            "Yokohama"
-        ], 
-        "Z": [
-            "Zamora.", 
-            "Zenit", 
-            "Zamora."
-        ]
-    }, 
     "TIME DO BRASIL": {
         "A": [
             "Atl\u00e9tico"
@@ -6956,6 +6825,137 @@ var stopCheats = {
         ], 
         "Z": [
             "Zumbi."
+        ]
+    }, 
+    "TIME ESPORTIVO": {
+        "A": [
+            "Arsenal", 
+            "Arsenal", 
+            "Asa"
+        ], 
+        "B": [
+            "Barcelona", 
+            "Barcelona", 
+            "Bara\u00fanas"
+        ], 
+        "C": [
+            "Corinthians", 
+            "Corinthians", 
+            "Cruz Azul"
+        ], 
+        "D": [
+            "D\u00ednamo", 
+            "D\u00ednamo", 
+            "Democrata"
+        ], 
+        "E": [
+            "Estudiante", 
+            "Estudiante", 
+            "Empoli"
+        ], 
+        "F": [
+            "Fiorentina", 
+            "Fiorentina", 
+            "Fiorentina"
+        ], 
+        "G": [
+            "Genoa", 
+            "Genoa", 
+            "Gama"
+        ], 
+        "H": [
+            "Hurac\u00e1n", 
+            "Hurac\u00e1n", 
+            "Huracan"
+        ], 
+        "I": [
+            "Internazionale", 
+            "Internazionale", 
+            "Ipatinga", 
+            "Ibis"
+        ], 
+        "J": [
+            "Juventus", 
+            "Juventus", 
+            "Joinville"
+        ], 
+        "K": [
+            "Kashima Antlers", 
+            "Kashima Antlers"
+        ], 
+        "L": [
+            "Lazio", 
+            "Lazio", 
+            "Leiria"
+        ], 
+        "M": [
+            "Milan", 
+            "Milan", 
+            "Maca\u00e9"
+        ], 
+        "N": [
+            "Nacional", 
+            "Nacional", 
+            "Noroeste"
+        ], 
+        "O": [
+            "Once Caldas", 
+            "Once Caldas", 
+            "Oeste"
+        ], 
+        "P": [
+            "Porto", 
+            "Porto", 
+            "Paulista"
+        ], 
+        "Q": [
+            "Quer\u00e9taro", 
+            "Quer\u00e9taro", 
+            "Queimadense"
+        ], 
+        "R": [
+            "Real Madrid", 
+            "Real Madrid", 
+            "Remo"
+        ], 
+        "S": [
+            "Sevilla", 
+            "Sevilla", 
+            "Sousa"
+        ], 
+        "T": [
+            "Tijuana", 
+            "Tijuana", 
+            "Toledo", 
+            "Treze"
+        ], 
+        "U": [
+            "Universitario", 
+            "Universitario", 
+            "Udinese"
+        ], 
+        "V": [
+            "Verona", 
+            "Verona", 
+            "Vasco"
+        ], 
+        "W": [
+            "Watford", 
+            "Watford"
+        ], 
+        "X": [
+            "Xerez", 
+            "Xerez", 
+            "Xerez"
+        ], 
+        "Y": [
+            "Yokohama", 
+            "Yokohama"
+        ], 
+        "Z": [
+            "Zamora.", 
+            "Zamora.", 
+            "Zenit"
         ]
     }, 
     "VERBO": {
