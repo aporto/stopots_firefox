@@ -2,11 +2,11 @@
 
   "description": "Plugin para trapacear no jogo Stopots",
   "manifest_version": 2,
-  "name": "Stopots Hack",
+  "name": "Hack do Alex - Stopots",
   "version": "1.0",
   "homepage_url": "https://github.com/aporto/stopots_firefox",
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/gato.png"
   },
 
   "content_scripts": [

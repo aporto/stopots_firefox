@@ -108,6 +108,9 @@ var stopCheats = {
         ], 
         "X": [
             "Xexelenta"
+        ], 
+        "Z": [
+            "Zoado"
         ]
     }, 
     "ALIMENTO": {
@@ -266,95 +269,101 @@ var stopCheats = {
     }, 
     "APP OU SITE": {
         "A": [
-            "accuweather.com", 
-            "allrecipes.com", 
-            "amazon.com", 
-            "aol.com", 
-            "apartments.com", 
-            "apple.com", 
-            "att.com"
+            "accuweather", 
+            "allrecipes", 
+            "amazon", 
+            "aol", 
+            "apartments", 
+            "apple", 
+            "att"
         ], 
         "B": [
-            "bankofamerica.com", 
-            "bbc.com", 
-            "bestbuy.com", 
-            "britannica.com", 
-            "businessinsider.com"
+            "bankofamerica", 
+            "bbc", 
+            "bestbuy", 
+            "britannica", 
+            "businessinsider"
         ], 
         "C": [
             "ca.gov", 
-            "cbssports.com", 
-            "chase.com", 
-            "cnbc.com", 
-            "cnet.com", 
-            "cnn.com", 
+            "cbssports", 
+            "chase", 
+            "cnbc", 
+            "cnet", 
+            "cnn", 
             "craigslist.org"
         ], 
         "D": [
-            "dictionary.com"
+            "dictionary"
         ], 
         "E": [
-            "ebay.com", 
-            "espn.com", 
-            "etsy.com", 
-            "expedia.com"
+            "ebay", 
+            "espn", 
+            "etsy", 
+            "expedia"
         ], 
         "F": [
-            "facebook.com", 
-            "finance.yahoo.com", 
-            "foodnetwork.com", 
-            "forbes.com", 
-            "foxnews.com"
+            "facebook", 
+            "finance.yahoo", 
+            "foodnetwork", 
+            "forbes", 
+            "foxnews"
         ], 
         "G": [
-            "gamepedia.com", 
-            "genius.com", 
-            "glassdoor.com", 
-            "go.com", 
-            "goodreads.com", 
-            "google.com", 
-            "groupon.com"
+            "gamepedia", 
+            "genius", 
+            "glassdoor", 
+            "go", 
+            "goodreads", 
+            "google", 
+            "groupon"
         ], 
         "H": [
-            "healthline.com", 
-            "homedepot.com"
+            "healthline", 
+            "homedepot"
         ], 
         "I": [
-            "ign.com", 
-            "imdb.com", 
-            "indeed.com", 
-            "instagram.com", 
+            "ign", 
+            "imdb", 
+            "indeed", 
+            "instagram", 
             "irs.gov"
         ], 
         "K": [
             "khanacademy.org"
         ], 
         "L": [
-            "linkedin.com", 
-            "live.com", 
-            "login.yahoo.com", 
-            "lowes.com"
+            "linkedin", 
+            "live", 
+            "login.yahoo", 
+            "lowes"
         ], 
         "M": [
-            "macys.com", 
-            "mail.yahoo.com", 
-            "mapquest.com", 
+            "macys", 
+            "mail.yahoo", 
+            "mapquest", 
             "mayoclinic.org", 
-            "medicalnewstoday.com", 
-            "merriam-webster.com", 
-            "microsoft.com", 
-            "mlb.com", 
-            "msn.com"
+            "medicalnewstoday", 
+            "merriam-webster", 
+            "microsoft", 
+            "mlb", 
+            "msn"
         ], 
         "N": [
-            "netflix.com", 
-            "nfl.com", 
+            "netflix", 
+            "nfl", 
             "nih.gov", 
             "npr.org", 
-            "nytimes.com"
+            "nytimes"
         ], 
         "O": [
-            "office.com"
+            "office"
+        ], 
+        "Q": [
+            "querobolsa"
+        ], 
+        "Z": [
+            "zap"
         ]
     }, 
     "ARTISTA": {
@@ -1448,6 +1457,9 @@ var stopCheats = {
             "Ugo Foscolo", 
             "Ulrich Leman", 
             "Umberto Boccioni"
+        ], 
+        "Z": [
+            "Zach Braff"
         ]
     }, 
     "CEP": {
@@ -1693,7 +1705,8 @@ var stopCheats = {
             "Cant\u00e1"
         ], 
         "D": [
-            "Divino"
+            "Divino", 
+            "d"
         ], 
         "E": [
             "Esperan\u00e7a"
@@ -2235,14 +2248,16 @@ var stopCheats = {
     }, 
     "DOCE": {
         "A": [
+            "Ambrosia", 
             "Arroz-doce"
         ], 
         "B": [
             "Bala", 
+            "Beijinho", 
             "Beiju", 
             "Bolacha", 
             "Bolo", 
-            "Beijinho"
+            "Brigadeiro"
         ], 
         "C": [
             "Cajuzinho", 
@@ -2275,8 +2290,8 @@ var stopCheats = {
             "Licor"
         ], 
         "M": [
-            "Manjar", 
             "Ma\u00e7\u00e3 do amor", 
+            "Manjar", 
             "Mousse"
         ], 
         "O": [
@@ -2289,20 +2304,24 @@ var stopCheats = {
             "Queijada"
         ], 
         "R": [
-            "Romeu e Julieta", 
-            "Rocambole", 
             "Rabanada", 
-            "Rapadura"
+            "Rapadura", 
+            "Rocambole", 
+            "Romeu e Julieta"
         ], 
         "S": [
+            "Sorvete", 
             "Sorvete"
         ], 
         "T": [
-            "Trufa", 
-            "T\u00e2mara"
+            "T\u00e2mara", 
+            "Trufa"
         ], 
         "X": [
             "Xarope de guaran\u00e1"
+        ], 
+        "Z": [
+            "Zabaione"
         ]
     }, 
     "DOENCA": {
@@ -2426,9 +2445,6 @@ var stopCheats = {
         "I": [
             "\u00cdndio"
         ], 
-        "J": [
-            "J??"
-        ], 
         "K": [
             "Kalium (Pot\u00e1ssio)"
         ], 
@@ -2446,9 +2462,6 @@ var stopCheats = {
         ], 
         "P": [
             "Pol\u00f4nio"
-        ], 
-        "Q": [
-            "Q??"
         ], 
         "R": [
             "R\u00e1dio"
@@ -3050,80 +3063,131 @@ var stopCheats = {
     "FLOR": {
         "A": [
             "Ac\u00e1cia", 
-            "Agapanto", 
-            "Alamanda", 
+            "Ac\u00e1cia", 
+            "A\u00e7afr\u00e3o", 
+            "Ac\u00f4nito", 
+            "A\u00e7ucena", 
+            "Adelfa", 
             "Alecrim", 
             "Alfazema", 
-            "Alisso", 
             "Amar\u00edlis", 
-            "Amor-perfeito", 
-            "Ant\u00fario", 
-            "Astrom\u00e9lia", 
-            "Azal\u00e9ia"
+            "Amor-Perfeito", 
+            "An\u00eamona", 
+            "Anis", 
+            "Aro", 
+            "Az\u00e1lea branca", 
+            "Az\u00e1lea rosa", 
+            "Az\u00e1lea vermelha"
         ], 
         "B": [
-            "Beg\u00f4nia", 
-            "Beijo", 
-            "Bela Em\u00edlia", 
+            "Beg\u00f3nia", 
             "Beladona", 
-            "Boca-de-Le\u00e3o", 
+            "Betonica", 
+            "Bogarim", 
             "Bonina", 
-            "Borragem", 
-            "Bot\u00e3o de Ouro", 
-            "Brassia", 
-            "Brinco-de-Princesa", 
-            "Brom\u00e9lia", 
-            "Buganv\u00edlea"
+            "Brinco-de-Princesa"
         ], 
         "C": [
-            "Calibrachoa", 
-            "Calla", 
-            "Cal\u00eandula", 
-            "Camomila", 
+            "Cacto", 
             "Cam\u00e9lia", 
-            "Capuchinha", 
-            "Cel\u00f3sia", 
-            "Chufa", 
+            "Camp\u00e2nula", 
+            "Cardo", 
+            "Cent\u00e1urea", 
             "Ciclame", 
-            "Ciner\u00e1ria", 
-            "Clorofila", 
-            "Cl\u00edvia", 
-            "Colar-de-p\u00e9rolas", 
-            "Colum\u00e9ia-peixinho", 
-            "Copo de Leite", 
-            "Coroa-de-Cristo", 
-            "Cosmos de Chocolate", 
-            "Cravina", 
+            "Clematite", 
+            "Copo-de-leite", 
+            "Coroa Imperial", 
             "Cravo", 
-            "Crista-de-galo", 
-            "Cris\u00e2ntemo", 
-            "C\u00e1rtamo"
+            "Cris\u00e2ntemo"
         ], 
         "D": [
-            "Dendr\u00f3bio", 
-            "Dente-de-le\u00e3o", 
-            "Diplad\u00eania", 
-            "D\u00e1lia"
-        ], 
-        "E": [
-            "Erva-doce", 
-            "Ervilha de Cheiro", 
-            "Espirradeira", 
-            "Estame", 
-            "Estrela-do-natal", 
-            "Euf\u00f3rbia"
+            "D\u00e1lia", 
+            "Dente de le\u00e3o", 
+            "Dormideira"
         ], 
         "F": [
-            "Flor-camar\u00e3o", 
-            "Flor-de-maio", 
-            "Flor-de-mel", 
-            "Flor-pelicano", 
-            "Fr\u00e9sia"
+            "Flor de laranjeira", 
+            "Flor de pessegueiro", 
+            "Flor de rom\u00e3zeira", 
+            "Flor-de-lis", 
+            "Flores do campo", 
+            "F\u00facsia"
         ], 
         "G": [
-            "Gard\u00eania", 
+            "Gard\u00e9nia", 
+            "Genciana", 
             "Ger\u00e2nio", 
-            "Girassol"
+            "G\u00e9rbera", 
+            "Giesta", 
+            "Girassol", 
+            "Glad\u00edolo", 
+            "Glic\u00ednia", 
+            "Goivo"
+        ], 
+        "H": [
+            "Hort\u00eansia"
+        ], 
+        "I": [
+            "\u00cdris"
+        ], 
+        "J": [
+            "Jacinto", 
+            "Jasmim", 
+            "Junquilho"
+        ], 
+        "L": [
+            "Lavanda", 
+            "Lil\u00e1s", 
+            "L\u00edrio", 
+            "L\u00edrio-do-vale", 
+            "Lisianto", 
+            "L\u00f3tus"
+        ], 
+        "M": [
+            "Magn\u00f3lia", 
+            "Malmequer", 
+            "Margarida", 
+            "Menta", 
+            "Mimosa", 
+            "Mios\u00f3tis"
+        ], 
+        "N": [
+            "Narciso", 
+            "Nen\u00fafar"
+        ], 
+        "O": [
+            "Orqu\u00eddea"
+        ], 
+        "P": [
+            "Papoula", 
+            "Pe\u00f4nia", 
+            "Perp\u00e9tua", 
+            "Pervinca", 
+            "Pet\u00fania", 
+            "Pr\u00edmula"
+        ], 
+        "R": [
+            "Rododendro", 
+            "Rosa"
+        ], 
+        "S": [
+            "Saudade", 
+            "Sempre-Viva"
+        ], 
+        "T": [
+            "Tulipa"
+        ], 
+        "V": [
+            "Variegada", 
+            "Ver\u00f3nica", 
+            "Violeta"
+        ], 
+        "Y": [
+            "Ype", 
+            "Yasmin"
+        ], 
+        "Z": [
+            "Zinia"
         ]
     }, 
     "FLV": {
@@ -3620,7 +3684,7 @@ var stopCheats = {
             "Barata"
         ], 
         "C": [
-            "Cubim"
+            "Cupim"
         ], 
         "F": [
             "Formiga"
@@ -3636,6 +3700,9 @@ var stopCheats = {
         ], 
         "P": [
             "Pulga"
+        ], 
+        "T": [
+            "Taturana"
         ]
     }, 
     "INSTRUMENTO MUSICAL": {
@@ -3860,6 +3927,9 @@ var stopCheats = {
             "Pepsi", 
             "Pina colada", 
             "Pisco"
+        ], 
+        "Q": [
+            "Querosene"
         ], 
         "R": [
             "Rum"
@@ -4140,6 +4210,8 @@ var stopCheats = {
     }, 
     "MEIO DE TRANSPORTE": {
         "A": [
+            "ASU (Air Start Unit)", 
+            "Abra", 
             "Aerobarco", 
             "Aeroluge", 
             "Aiola", 
@@ -4206,7 +4278,340 @@ var stopCheats = {
             "Champiot", 
             "Charabanc", 
             "Charrete", 
-            "Chata"
+            "Chata", 
+            "Ciclo-riquix\u00e1", 
+            "Clipper", 
+            "Cocotaxi", 
+            "Colheitadeira", 
+            "Comboio", 
+            "Concorde", 
+            "Conteineiro", 
+            "Convertiplano", 
+            "Cruzador de Neve", 
+            "Cyclo", 
+            "C\u00e1brea", 
+            "C\u00fater"
+        ], 
+        "D": [
+            "Dala Dala", 
+            "Demoiselle", 
+            "Dhow", 
+            "Diciclo", 
+            "Dirig\u00edvel", 
+            "Dollar Van", 
+            "Dollies", 
+            "Dolly", 
+            "Dolmus", 
+            "Double Deck", 
+            "Draga", 
+            "Dresina", 
+            "Drone", 
+            "Dr\u00f3mon"
+        ], 
+        "E": [
+            "ElettroTreno", 
+            "Elevador", 
+            "Empilhadeira", 
+            "Empurrador Fluvial", 
+            "Enfardadora", 
+            "Escada Rolante", 
+            "Escadas de Embarque", 
+            "Escavadeira", 
+            "Escorregador", 
+            "Escuna", 
+            "Espa\u00e7onave", 
+            "Esquife", 
+            "Esteira rolante"
+        ], 
+        "F": [
+            "Felucca", 
+            "Ferry-boat", 
+            "Fiaker", 
+            "Flatbed", 
+            "Flotel", 
+            "Flutuante", 
+            "Foguete", 
+            "Fragata", 
+            "Frigor\u00edfico", 
+            "Funicular", 
+            "Furg\u00e3o", 
+            "Fusta", 
+            "F\u00e1eton"
+        ], 
+        "G": [
+            "Galera", 
+            "Gale\u00e3o", 
+            "Gaseiro", 
+            "Giroc\u00f3ptero", 
+            "Goleta", 
+            "Graneleiro", 
+            "Grua", 
+            "Guincho", 
+            "Guindaste", 
+            "Gyrobus", 
+            "G\u00f4ndola"
+        ], 
+        "H": [
+            "Habal-habal", 
+            "Helic\u00f3ptero", 
+            "Hexac\u00f3ptero", 
+            "Hiate de Set\u00fabal", 
+            "Hidravi\u00e3o", 
+            "Hidrof\u00f3lio", 
+            "Hidroplano", 
+            "Homebuilt", 
+            "Hoverboard", 
+            "Hovercraft", 
+            "Howdah", 
+            "Huskies tren\u00f3", 
+            "Hyperbike", 
+            "H\u00edbridos"
+        ], 
+        "I": [
+            "Iate", 
+            "Implementos Agr\u00edcolas", 
+            "Infl\u00e1vel", 
+            "Iole"
+        ], 
+        "J": [
+            "Jangada", 
+            "Jardineira", 
+            "Jeepney", 
+            "Jet-ski", 
+            "Jetpack", 
+            "Junco"
+        ], 
+        "K": [
+            "Karozzin", 
+            "Karve", 
+            "Ketche", 
+            "Kibitka", 
+            "Kite Surf", 
+            "Kundapp"
+        ], 
+        "L": [
+            "Lambreta", 
+            "Lancha", 
+            "Liaoning", 
+            "Liburna", 
+            "Limousine", 
+            "Liteira", 
+            "Litorina", 
+            "Locomotiva", 
+            "Long-board", 
+            "Lorcha", 
+            "Lowboy", 
+            "Lugre", 
+            "Luzito"
+        ], 
+        "M": [
+            "MAZ-2000", 
+            "Maglev", 
+            "Marshrutka", 
+            "Matatu", 
+            "Maxi-trail", 
+            "Metr\u00f4", 
+            "Micro-\u00f4nibus", 
+            "Microtrator", 
+            "Midibus", 
+            "Mokoro", 
+            "Monocasco", 
+            "Monociclo", 
+            "Monomotor", 
+            "Monoposto", 
+            "Monotrilho", 
+            "Moto", 
+            "Moto esqui", 
+            "Moto-t\u00e1xi", 
+            "Motocicleta", 
+            "Motoneta", 
+            "Motoneve", 
+            "Multicasco", 
+            "Multiprop\u00f3sito"
+        ], 
+        "N": [
+            "Naked", 
+            "Nanny Van", 
+            "Naturmobil", 
+            "Nau", 
+            "Nave Espacial", 
+            "Navio", 
+            "Norry"
+        ], 
+        "O": [
+            "Octac\u00f3pteros", 
+            "Off-road", 
+            "Oleoduto", 
+            "Open Top Bus", 
+            "\u00d4nibus", 
+            "\u00d4nibus Espacial"
+        ], 
+        "P": [
+            "Palanquim", 
+            "Paleteira", 
+            "Paleteira", 
+            "Palhabote", 
+            "Pangolina", 
+            "Panzer", 
+            "Papam\u00f3vel", 
+            "Para-quedas", 
+            "Patacho", 
+            "Patins", 
+            "Patrola", 
+            "Pedalcar", 
+            "Pedalinho", 
+            "Pedicab", 
+            "Pesero", 
+            "Pesqueiro", 
+            "Petroleiro", 
+            "Pina\u00e7a", 
+            "Pivot", 
+            "Planador", 
+            "Planador de Neve", 
+            "Plantadeira", 
+            "Plataforma", 
+            "Pocketbike", 
+            "Polaca", 
+            "Porta-avi\u00f5es", 
+            "Prancha", 
+            "Prebici", 
+            "Pulverizador", 
+            "Pushback"
+        ], 
+        "Q": [
+            "Quad", 
+            "Quadriciclo", 
+            "Quadric\u00f3ptero", 
+            "Quadrimotor", 
+            "Quadrofoil", 
+            "Quattrocycle", 
+            "Quebra-gelo", 
+            "Quel\u00e2ndio", 
+            "Quinquerreme"
+        ], 
+        "R": [
+            "RTG", 
+            "Rastreador de Neve", 
+            "Reabastecedor", 
+            "Reachstacker", 
+            "Rebocador", 
+            "Retroescavadeira", 
+            "Ripsaw", 
+            "Riquix\u00e1", 
+            "Roller"
+        ], 
+        "S": [
+            "SUV", 
+            "Samlor", 
+            "Scooter", 
+            "Screw-propelled Vehicle", 
+            "Segadeira", 
+            "Semirreboque", 
+            "Side Car", 
+            "Sidelifter", 
+            "Sideloader", 
+            "Sider", 
+            "Skate", 
+            "Skibob", 
+            "Sloop", 
+            "Soleckshaw", 
+            "Stand-up Paddle", 
+            "Straddle Carrier", 
+            "Submarino", 
+            "Submers\u00edvel", 
+            "Sumaca", 
+            "Superporta-avi\u00f5es", 
+            "Supers\u00f4nico", 
+            "Surrey"
+        ], 
+        "T": [
+            "TH NK Frost", 
+            "Tanque", 
+            "Tatra Aeroluge", 
+            "Telef\u00e9rico", 
+            "Telega", 
+            "Tico-tico", 
+            "Tirolesa", 
+            "Tobata", 
+            "Tobog\u00e3", 
+            "Toco", 
+            "Torpedeiro", 
+            "Trailer", 
+            "Trailerbus", 
+            "Trailmate", 
+            "Transatl\u00e2ntico", 
+            "Transportadores", 
+            "Transrapid", 
+            "Transtainer", 
+            "Trator", 
+            "Trawler", 
+            "Trem", 
+            "Trem Bala", 
+            "Tren\u00f3", 
+            "Triciclo", 
+            "Trijato", 
+            "Trimaran", 
+            "Trirreme", 
+            "Trishaw", 
+            "Trisikad", 
+            "Tritrem", 
+            "Tro Tro", 
+            "Troika", 
+            "Trolleybus", 
+            "Tucker Sno-cat", 
+            "Tuk-tuk", 
+            "Turbo-h\u00e9lice", 
+            "T\u00e1ndem"
+        ], 
+        "U": [
+            "UAZ-452", 
+            "ULD", 
+            "Ultraleve", 
+            "Underbone", 
+            "Uprider", 
+            "Urbano", 
+            "Urutu", 
+            "Utilit\u00e1rio"
+        ], 
+        "V": [
+            "Vag\u00e3o", 
+            "Van", 
+            "Vaporetto", 
+            "Varino", 
+            "Veleiro", 
+            "Veloc\u00edpede", 
+            "Velom\u00f3vel", 
+            "Viatura", 
+            "Voadeira", 
+            "Vozok"
+        ], 
+        "W": [
+            "WLA", 
+            "Wagon", 
+            "Wagonette", 
+            "Walking Bike", 
+            "Waterbus", 
+            "Watercraft", 
+            "Watertaxi", 
+            "Wheelie", 
+            "Wind Surf", 
+            "Wright Flyer"
+        ], 
+        "X": [
+            "X-tudo", 
+            "X2000", 
+            "Xaveco"
+        ], 
+        "Y": [
+            "Yawl", 
+            "Yngling"
+        ], 
+        "Z": [
+            "ZIL Amphibious", 
+            "Zambuco", 
+            "Zeppelin", 
+            "Zip Line", 
+            "Zorra"
         ]
     }, 
     "MINERAL": {
@@ -5506,82 +5911,97 @@ var stopCheats = {
     }, 
     "PERSONAGEM": {
         "A": [
-            "Ariel"
+            "A Rainha", 
+            "Alex DeLarge", 
+            "Alex Forrest", 
+            "Alonzo Harris", 
+            "Amon G\u00f6th", 
+            "Annie Wilkes", 
+            "Auric Goldfinger"
         ], 
         "B": [
-            "Boitat\u00e1"
+            "Baby Jane Hudson", 
+            "Bonnie Parker & Clyde Barrow", 
+            "Bruxa Malvada do Oeste"
         ], 
         "C": [
-            "Cinderella"
+            "Caesar Enrico Bandello", 
+            "Capit\u00e3o Bligh", 
+            "Cody Jarrett", 
+            "Coringa", 
+            "Cruella de Vil"
         ], 
         "D": [
-            "Don Juan"
+            "Darth Vader", 
+            "Dr. Christian Szell", 
+            "Dr\u00e1cula"
         ], 
         "E": [
-            "Em\u00edlia"
+            "Enfermeira Ratched", 
+            "Eve Harrington"
         ], 
         "F": [
-            "Fausto"
+            "Frank Booth", 
+            "Freddy Krueger"
         ], 
         "G": [
-            "Gavroche"
+            "Gordon Gekko"
         ], 
         "H": [
-            "H\u00e9rcules"
-        ], 
-        "I": [
-            "Isabel"
+            "Hannibal Lecter", 
+            "HAL 9000", 
+            "Hans Gruber", 
+            "Harry Lime", 
+            "Harry Powell"
         ], 
         "J": [
-            "Jigsaw"
-        ], 
-        "K": [
-            "Kakashi"
-        ], 
-        "L": [
-            "Lobisomem"
+            "J.J. Hunsecker", 
+            "Jack Torrance", 
+            "Joan Crawford"
         ], 
         "M": [
-            "Madeline"
+            "Marcianos", 
+            "Max Cady", 
+            "Michael Corleone"
         ], 
         "N": [
-            "Neck"
+            "Noah Cross", 
+            "Norman Bates"
         ], 
         "O": [
-            "Orik"
+            "O Ca\u00e7ador"
         ], 
         "P": [
-            "Pin\u00f3quio"
+            "Phyllis Dietrichson"
         ], 
         "Q": [
-            "Quasimodo"
+            "quasimodo"
         ], 
         "R": [
-            "Rapunzel"
+            "Regan MacNeil", 
+            "Pazuzu", 
+            "Regina Giddens"
         ], 
         "S": [
-            "She-Ra"
+            "Sr. Potter", 
+            "Sra. Danvers", 
+            "Sra. Joan Iselin"
         ], 
         "T": [
-            "Tarzan"
+            "Terminator", 
+            "Tom Powers", 
+            "Tony Camonte", 
+            "Travis Bickle", 
+            "Tubar\u00e3o"
         ], 
         "U": [
-            "Ururau"
+            "Ultron"
         ], 
         "V": [
-            "Vickie"
-        ], 
-        "W": [
-            "Wolverine"
+            "Verbal Kint"
         ], 
         "X": [
-            "Xuxu"
-        ], 
-        "Y": [
-            "Yoda"
-        ], 
-        "Z": [
-            "Z\u00e9 Colm\u00e9ia."
+            "Xenomorfo"
         ]
     }, 
     "PERSONAGEM BBB": {
@@ -5806,6 +6226,9 @@ var stopCheats = {
         "P": [
             "Phyllis Dietrichson"
         ], 
+        "Q": [
+            "quasimodo"
+        ], 
         "R": [
             "Regan MacNeil", 
             "Pazuzu", 
@@ -5822,6 +6245,9 @@ var stopCheats = {
             "Tony Camonte", 
             "Travis Bickle", 
             "Tubar\u00e3o"
+        ], 
+        "U": [
+            "Ultron"
         ], 
         "V": [
             "Verbal Kint"
@@ -6923,6 +7349,9 @@ var stopCheats = {
         "X": [
             "Xamoterol"
         ], 
+        "Y": [
+            "Yasmin"
+        ], 
         "Z": [
             "Zaldarida."
         ]
@@ -7228,6 +7657,84 @@ var stopCheats = {
             "Bosch", 
             "Boss", 
             "Breaking Bad"
+        ]
+    }, 
+    "SOBREMESA": {
+        "A": [
+            "Ambrosia", 
+            "Arroz-doce"
+        ], 
+        "B": [
+            "Bala", 
+            "Beijinho", 
+            "Beiju", 
+            "Bolacha", 
+            "Bolo", 
+            "Brigadeiro"
+        ], 
+        "C": [
+            "Cajuzinho", 
+            "Chocolate", 
+            "Churro", 
+            "Cocada"
+        ], 
+        "D": [
+            "doce-de-leite"
+        ], 
+        "E": [
+            "Enroladinho de doce de leite"
+        ], 
+        "F": [
+            "Farofa-doce"
+        ], 
+        "G": [
+            "Gel\u00e9ia", 
+            "Goiabada"
+        ], 
+        "I": [
+            "Iogurte", 
+            "Iyokan"
+        ], 
+        "J": [
+            "Jujuba"
+        ], 
+        "L": [
+            "Leite-condensado", 
+            "Licor"
+        ], 
+        "M": [
+            "Ma\u00e7\u00e3 do amor", 
+            "Manjar", 
+            "Mousse"
+        ], 
+        "O": [
+            "ovomaltine"
+        ], 
+        "P": [
+            "Pudim"
+        ], 
+        "Q": [
+            "Queijada"
+        ], 
+        "R": [
+            "Rabanada", 
+            "Rapadura", 
+            "Rocambole", 
+            "Romeu e Julieta"
+        ], 
+        "S": [
+            "Sorvete", 
+            "Sorvete"
+        ], 
+        "T": [
+            "T\u00e2mara", 
+            "Trufa"
+        ], 
+        "X": [
+            "Xarope de guaran\u00e1"
+        ], 
+        "Z": [
+            "Zabaione"
         ]
     }, 
     "SOBRENOME": {

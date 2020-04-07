@@ -38,7 +38,15 @@ function fillFieldIfIsCategory(letter, node)
     var isInputText = input instanceof HTMLInputElement && input.type == 'text';
     var value = "";
     
-    if (isInputText) {        
+    if (isInputText) {  
+        //var old_element = document.getElementById("btn");
+        //var input = oldInput.cloneNode(true);
+        //oldInput.parentNode.replaceChild(input, oldInput);    
+        
+        //alert(1);
+        //alert(getEventListeners(input));
+        //alert(2);
+        
         if (category.indexOf("<") > 0) {
             category = category.substring(0, category.indexOf("<"));
         }
@@ -61,15 +69,36 @@ function fillFieldIfIsCategory(letter, node)
         //input.value = value;
         //input.defaultValue = value;   
         input.onclick = function(e) {
+            //alert(10);
             e.srcElement.value = value;
             e.srcElement.defaultValue = value;   
+            //alert(11);
             //sendStringToClipBoard(value);
+        }
+        
+        input.onfocus = function(e) {
+            //alert(1);
+            e.srcElement.value = value;
+            e.srcElement.defaultValue = value;   
+            //alert(2);
         };
-        input.onfocusout = function() {
+        input.onblur = function(e) {
+            //alert(3);
+            e.srcElement.value = value;
+            e.srcElement.defaultValue = value;   
+            //alert(5);
+            //alert(1);
             //e.srcElement.value = value;
             //e.srcElement.defaultValue = value;   
             //sendStringToClipBoard(value);
         };
+        
+        /*input.addEventListener("onblur", function(){
+            e.srcElement.value = value;
+            e.srcElement.defaultValue = value;   
+        }, false);*/
+        
+        //input.addEventListener("onblur", hackClick, false); //where func is your function name
         //sendStringToClipBoard
         //input.addEventListener("click", hackClick, false); //where func is your function name
         
@@ -97,6 +126,13 @@ function executeGameCheat(document)
 
     document.body.style.border = "5px solid red";    
 }
+
+function cheat()
+{
+   // alert(1);
+    executeGameCheat(document);    
+    //alert(2);
+}
 /*
 function keyPressHandler(e) 
 {
@@ -115,6 +151,47 @@ function keyPressHandler(e)
 var element = document.getElementById('letter');
 if (element != null && element.value == '') {
     document.body.style.border = "5px solid white";
+    
+    //alert(1);
+    /*var topWindow = document.createElement("div");
+    //alert(2);
+    topWindow.setAttribute("position", "absolute");
+    topWindow.setAttribute("left", "0px");
+    topWindow.setAttribute("top", "0px");
+    topWindow.setAttribute("width", "300px");
+    topWindow.setAttribute("height", "200px");
+    //topWindow.setAttribute("z-index", 10000000);
+    topWindow.style.zIndex = "1000000";
+    topWindow.setAttribute("visibility", "visible");     
+    topWindow.setAttribute("background-color", "blue");
+    
+    //alert(3);
+    
+    var header = document.getElementById('header');
+    //alert(header.textContent);
+    
+    //var parentDiv = document.getElementsByClassName('root')[0];    
+    var parentDiv = document.getElementById('root');    
+    //alert(4);
+    document.body.appendChild(topWindow); 
+    //parentDiv.insert(topWindow);
+        
+    alert(5);
+    
+    */
+    headerLogo = document.getElementsByClassName('logo')[0];       
+    //alert(headerLogo);
+    headerLogo.innerHTML = '<input id="btnCheat" type="button" value="Cheat" />' 
+    document.getElementById ("btnCheat").addEventListener ("click", cheat, false);
+    //'<button onclick="executeGameCheat(document)"> Cheat</button>';
+    //"<strong>Teste</strong>";
+    
+    //var button = document.createElement("input");
+    //button.setAttribute("type", "button");
+    //button.setAttribute("value", "valore");
+    //button.setAttribute("name", "nome");
+    //header.appendChild(btn);
+    //alert(6);
     
     //window.alert(1);
     /*var button = document.createElement("input");
